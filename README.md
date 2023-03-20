@@ -22,7 +22,7 @@ This repository is part of the DFG project [Sophoappeal (437543412)](https://www
 
 ## Requirements
 
-* python3, python3-pip, git, imagemagick, wget
+* python3, python3-pip, git, imagemagick, wget, unzip
 * jupyternotebook for the analysis scripts
 
 Run `./prepare.sh` to download the depth and segmentation maps.
