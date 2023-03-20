@@ -1,0 +1,5307 @@
+[
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/100327907_some_days_in_winter.png",
+        "mean_depth": 36763.68861092477,
+        "std_depth": 18154.203252994514
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/1003502191_Flat_lay_of_business_concept.png",
+        "mean_depth": 25372.601404958677,
+        "std_depth": 17086.128711074583
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/1011015162_Anemone-.png",
+        "mean_depth": 32116.281660461427,
+        "std_depth": 19412.510583144656
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/1011015165_Anemone-.png",
+        "mean_depth": 34076.57354072122,
+        "std_depth": 17195.0842431895
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/1011015217_Anemone-.png",
+        "mean_depth": 30410.32261433321,
+        "std_depth": 16990.384102769454
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/1011015218_Anemone-.png",
+        "mean_depth": 30496.26882010067,
+        "std_depth": 16681.152476568415
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/1023277564_Montauk_Point_Lighthouse,_Montauk_Point_State_Park,_New_York.png",
+        "mean_depth": 23441.034093903538,
+        "std_depth": 20731.14170647409
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/1026890271_Reclining_Naiad_1819-1824_by_.png",
+        "mean_depth": 29086.748423076922,
+        "std_depth": 20820.163142188136
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/1026975700_http_www.metmuseum.org_art_collection_search_247994.png",
+        "mean_depth": 23282.9641715478,
+        "std_depth": 22501.9444920516
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/107140907_Tagetes.png",
+        "mean_depth": 24290.05696682259,
+        "std_depth": 14734.95659025951
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/107284033_Center_parcs.png",
+        "mean_depth": 23267.493555704754,
+        "std_depth": 15408.320580069787
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/107515765_Tomato_blossom.png",
+        "mean_depth": 17282.574578502787,
+        "std_depth": 18236.857661508682
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/111241589_Tagetes.png",
+        "mean_depth": 31518.348760291276,
+        "std_depth": 17366.70163163303
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/112540029_2-Euro.png",
+        "mean_depth": 38896.420757291664,
+        "std_depth": 20159.01912245399
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/112540127_something_with_alot_of_legs.png",
+        "mean_depth": 33434.91946411133,
+        "std_depth": 20215.58257035679
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/116213163_Tagetes.png",
+        "mean_depth": 27121.045797685187,
+        "std_depth": 17506.114578227352
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/122238161_something.png",
+        "mean_depth": 35125.57741048177,
+        "std_depth": 19815.368235039947
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002295_Sea_view.png",
+        "mean_depth": 18057.494662250978,
+        "std_depth": 17905.21434153622
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002297_Island.png",
+        "mean_depth": 20886.530893577932,
+        "std_depth": 20076.027674909357
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002299_People.png",
+        "mean_depth": 23585.786073811105,
+        "std_depth": 23692.321969432618
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002301_Boats.png",
+        "mean_depth": 26933.182520192782,
+        "std_depth": 16669.409127307008
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002303_Boat.png",
+        "mean_depth": 23739.335968162846,
+        "std_depth": 20151.30634497216
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002305_Sea.png",
+        "mean_depth": 9641.876996660878,
+        "std_depth": 9462.062813323157
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002307_IPhone.png",
+        "mean_depth": 23934.52981260084,
+        "std_depth": 15900.756681557821
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002537_Park.png",
+        "mean_depth": 26972.31464166128,
+        "std_depth": 17240.828517432805
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002571_View.png",
+        "mean_depth": 17644.967923533477,
+        "std_depth": 18552.61005379482
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002607_Sky.png",
+        "mean_depth": 27290.05946178569,
+        "std_depth": 17506.26486472344
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002695_Sparks.png",
+        "mean_depth": 31778.081195039307,
+        "std_depth": 11872.650562093704
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002717_Shoes.png",
+        "mean_depth": 23002.567789162862,
+        "std_depth": 19462.475469924626
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002917_Watch.png",
+        "mean_depth": 25477.27805030676,
+        "std_depth": 19734.90859421413
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002939_Relaxing.png",
+        "mean_depth": 25182.66126610202,
+        "std_depth": 13170.939770973642
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130002959_Extreme_biker.png",
+        "mean_depth": 13425.548392676817,
+        "std_depth": 10839.359143294352
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130003073_Old_plane.png",
+        "mean_depth": 23645.163655032782,
+        "std_depth": 20159.495162191834
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130003187_Barman.png",
+        "mean_depth": 34573.90233865442,
+        "std_depth": 17110.68836565032
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130003227_Small_bird.png",
+        "mean_depth": 12332.471836666971,
+        "std_depth": 18238.7547133231
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/130003289_Day_at_sea.png",
+        "mean_depth": 21538.686498674793,
+        "std_depth": 14603.46174652543
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/131139407_Free_Stock_Photos.png",
+        "mean_depth": 18848.50727529725,
+        "std_depth": 20369.684739942317
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/135558441_Pizza.png",
+        "mean_depth": 28526.513280436197,
+        "std_depth": 21265.914981430866
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/139228225_Sunset-PicLiberum.com_0001.png",
+        "mean_depth": 34038.4792537155,
+        "std_depth": 17042.840163363122
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/139228681_Leaf-PicLiberum.com_0003.png",
+        "mean_depth": 13602.452715121137,
+        "std_depth": 16623.909612687727
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/139228685_Icy-PicLiberum.com_0005.png",
+        "mean_depth": 8778.949471661863,
+        "std_depth": 10970.000379642697
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/139253069_Bridge-PicLiberum_com_0007.png",
+        "mean_depth": 21790.36518387553,
+        "std_depth": 21199.209824107187
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/139253071_Shroom-PicLiberum_com_0008.png",
+        "mean_depth": 21734.870245411865,
+        "std_depth": 16772.661716916504
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/139398055_Mermaid-PicLiberum_com_0010.png",
+        "mean_depth": 32562.613120277078,
+        "std_depth": 17464.451254642165
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/139398057_Snow-PicLiberum_com_0011.png",
+        "mean_depth": 17317.48693548387,
+        "std_depth": 20418.086194745985
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/139933905_Tall-PicLiberum_com_0014.png",
+        "mean_depth": 22322.409008531,
+        "std_depth": 13569.10009941032
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/140186005_Buildings-PicLiberum_com_0016.png",
+        "mean_depth": 25264.492052083333,
+        "std_depth": 15604.310827202906
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/146001191_Sarlos_baberpafrany_Cyrtomium_falcatum_House_holly-fern_or_Japanese_holly_fern.png",
+        "mean_depth": 33454.35079770589,
+        "std_depth": 21291.211211427148
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/146064559_Viktoria.png",
+        "mean_depth": 22524.678631371946,
+        "std_depth": 19935.017006292153
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/147598739_ivy_on_fence.png",
+        "mean_depth": 28434.155203486425,
+        "std_depth": 22921.384825410067
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/148674963_How_could_a_wise_man_sincerely_believe_that_the_formless_Existence_is_affected_by_forms_.png",
+        "mean_depth": 20028.056241739738,
+        "std_depth": 14118.414759505924
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/149163029_Pygmy_Iris_Apro_noszirom_Iris_pumila.png",
+        "mean_depth": 25095.018688517153,
+        "std_depth": 22965.755177213676
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/151440493_Mark.png",
+        "mean_depth": 24772.87229303623,
+        "std_depth": 22227.747140457795
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/154312333_Defocused_focusing.png",
+        "mean_depth": 27671.617677633036,
+        "std_depth": 20025.423073202095
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/159785189_Retouch_Lake.png",
+        "mean_depth": 14587.976563464506,
+        "std_depth": 16492.092402956914
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/160438281_Mom_picking_lavender.png",
+        "mean_depth": 33464.32789134979,
+        "std_depth": 24700.31848556098
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/162077443_Sunset.png",
+        "mean_depth": 17035.5091672786,
+        "std_depth": 17165.550859334144
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/162876571_among_the_reeds.png",
+        "mean_depth": 26557.527830090585,
+        "std_depth": 13961.435866249078
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/163075841_train_yourself_to_see_god_in_everything.png",
+        "mean_depth": 28280.180036436006,
+        "std_depth": 16036.566885750102
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/164175291_pylon_in_the_clouds.png",
+        "mean_depth": 11100.146699478175,
+        "std_depth": 8771.339263277065
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/168899139_Giant_Universe.png",
+        "mean_depth": 22455.73492714443,
+        "std_depth": 21690.10615159215
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/170149583_1_1_=_3.png",
+        "mean_depth": 47315.24282740984,
+        "std_depth": 19009.58082371062
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/172478803_Keresztespok_Cross_Orbweaver.png",
+        "mean_depth": 24519.96884638071,
+        "std_depth": 12872.192693269064
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/173224175_Bird_on_a_branch.png",
+        "mean_depth": 21054.537106156742,
+        "std_depth": 14329.752647135054
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/174489205_Keresztespok_Cross_Orbweaver.png",
+        "mean_depth": 37268.57470293732,
+        "std_depth": 18473.81082012959
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/175868717_Shine_Bright_in_Midst_of_Darkness.png",
+        "mean_depth": 14038.699623269762,
+        "std_depth": 15180.878615515465
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/177177433_lone_tree.png",
+        "mean_depth": 28664.93065452482,
+        "std_depth": 18739.411081256505
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/178594907_broken_wing.png",
+        "mean_depth": 28149.62949546684,
+        "std_depth": 13627.34538871633
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/179537679_coffee_and_tea_and_film.png",
+        "mean_depth": 27272.69855098438,
+        "std_depth": 18365.548662126876
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/181321917_Mark_in_the_city.png",
+        "mean_depth": 28494.915581149977,
+        "std_depth": 14934.730127508019
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/194697987_Family.png",
+        "mean_depth": 29734.535862117977,
+        "std_depth": 18975.140448417325
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/194901225_Frozen_Balaton.png",
+        "mean_depth": 26235.31129480947,
+        "std_depth": 22474.064127787762
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/195782991_symmetry.png",
+        "mean_depth": 35878.30072890002,
+        "std_depth": 14984.48131347201
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/198969039_rain.png",
+        "mean_depth": 37580.032880642364,
+        "std_depth": 16027.20699534036
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/199240065_MM00A-1602_RSC_LEX_ROA_H2O_D3200.png",
+        "mean_depth": 26988.896005276398,
+        "std_depth": 19968.16176719291
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/200230489_Mark.png",
+        "mean_depth": 26331.84984475843,
+        "std_depth": 20849.76332246698
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/200479769_Mark.png",
+        "mean_depth": 29390.267040854393,
+        "std_depth": 21703.64770624766
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/202176431_Mark.png",
+        "mean_depth": 32695.138050690395,
+        "std_depth": 16159.199691004285
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/205689063_please_be_quiet.png",
+        "mean_depth": 20394.16194522079,
+        "std_depth": 20133.980797933902
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/207143029_MM00A-1704_LEX_CAR_URB_G6.png",
+        "mean_depth": 22862.047899305555,
+        "std_depth": 18776.581310559908
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/208819201_Let_me_never_imagine_I_am_something..png",
+        "mean_depth": 32843.24239450693,
+        "std_depth": 18323.88252687175
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/210415495_make_a_cold_wish.png",
+        "mean_depth": 32244.016242791673,
+        "std_depth": 18519.04445501799
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/211975699_rocks_to_climb.png",
+        "mean_depth": 27193.375652029856,
+        "std_depth": 20476.730196953795
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/212179907_her.png",
+        "mean_depth": 23896.384383750745,
+        "std_depth": 18448.58942661766
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/219813943_Dead_Guardian.png",
+        "mean_depth": 35397.86515737276,
+        "std_depth": 19506.2230568359
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/219870271_Balaton.png",
+        "mean_depth": 22799.955523139786,
+        "std_depth": 23475.735438217922
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/220028869_Sunset.png",
+        "mean_depth": 34857.05144628743,
+        "std_depth": 17671.729587233585
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/223329847_virginia_creeper.png",
+        "mean_depth": 20803.031397166782,
+        "std_depth": 21090.069092647638
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/223460437_A_walk_in_the_park.png",
+        "mean_depth": 23155.334282477696,
+        "std_depth": 19942.890017277576
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/223477547_Untitled.png",
+        "mean_depth": 24266.796351326837,
+        "std_depth": 18809.116979902457
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/223545123_Untitled.png",
+        "mean_depth": 22929.543941935288,
+        "std_depth": 17809.355136663162
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/223545133_Untitled.png",
+        "mean_depth": 22779.57639579773,
+        "std_depth": 17947.248395123388
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/223595995_Rocks_and_Blue.png",
+        "mean_depth": 21196.68642281845,
+        "std_depth": 16714.47705448182
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/223595997_Rocks_in_the_Beach.png",
+        "mean_depth": 33304.911997795105,
+        "std_depth": 18056.244590682534
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/223658055_Rocks.png",
+        "mean_depth": 27077.80894413204,
+        "std_depth": 19900.76620479298
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/223768047_Light_and_Shadow.png",
+        "mean_depth": 23102.015882500953,
+        "std_depth": 18579.505920586613
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/224938483_501_bird.png",
+        "mean_depth": 9568.080539263692,
+        "std_depth": 8034.750768676961
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/225088709_Ducks_at_the_stromy_Balaton.png",
+        "mean_depth": 17666.53020246747,
+        "std_depth": 19300.216767158447
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/225428903_6_51_PM.png",
+        "mean_depth": 17476.217703744114,
+        "std_depth": 12862.804306747477
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/227480157_center_parcs-de_kempervennen.png",
+        "mean_depth": 32842.1267153422,
+        "std_depth": 18725.241486984472
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/229736563_Tihany_August_20..png",
+        "mean_depth": 20670.70570051767,
+        "std_depth": 16915.67987553335
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/231222599_Her.png",
+        "mean_depth": 26963.5847040999,
+        "std_depth": 28774.267249234275
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/231554495_green_tomatoes.png",
+        "mean_depth": 23219.80145030566,
+        "std_depth": 20431.884559798284
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/232495645_The_Supreme_cannot_be_found_amongst_the_things_that_are_visible..png",
+        "mean_depth": 34671.029404313354,
+        "std_depth": 16403.274288487424
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/232783277_going_home.png",
+        "mean_depth": 21596.442819266882,
+        "std_depth": 14547.096600664874
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/233459315_Behind_the_believer_is_a_reality.png",
+        "mean_depth": 31469.3175845691,
+        "std_depth": 19200.159433703742
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/234985111_Budapest_at_night.png",
+        "mean_depth": 29488.301160487732,
+        "std_depth": 19611.442085540282
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/238116245_Bratwurst.png",
+        "mean_depth": 37138.648313802085,
+        "std_depth": 16560.302652340495
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/240030093_Image_1_18_1_2_copy.png",
+        "mean_depth": 17057.323486547793,
+        "std_depth": 18254.465893696222
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/241904221_f_.png",
+        "mean_depth": 26266.858437017414,
+        "std_depth": 16804.559030323988
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/242215175_Guy_enjoying_sunset.png",
+        "mean_depth": 20545.368171257218,
+        "std_depth": 24104.30877996428
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/243189027_Cars_plugged-in_at_a_charging_pole_2_.png",
+        "mean_depth": 29213.661192331285,
+        "std_depth": 18814.541034558522
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/244984497_striped.png",
+        "mean_depth": 36627.43457334504,
+        "std_depth": 15846.06119610176
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/246333743_.png",
+        "mean_depth": 27631.913187290687,
+        "std_depth": 16690.32638632807
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/246435479_IMG.png",
+        "mean_depth": 20893.993722174757,
+        "std_depth": 16879.84027923966
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/247698413_winter_in_the_woods.png",
+        "mean_depth": 17025.554853826157,
+        "std_depth": 14585.337213762632
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/252376423_Blackjack_in_der_aufregenden_Welt_der_Film-und_Spielhelden.png",
+        "mean_depth": 22573.440504146813,
+        "std_depth": 11991.040591048948
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/252755949_It_comes.png",
+        "mean_depth": 30710.79561251194,
+        "std_depth": 15237.690701028116
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/252756505_Young_apple_tree.png",
+        "mean_depth": 14800.299441282765,
+        "std_depth": 13846.264163397105
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/252756875_cornflower_seeds.png",
+        "mean_depth": 31304.57076641881,
+        "std_depth": 18052.61266794643
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/253118977_sunset_over_BUD.png",
+        "mean_depth": 25235.25360576137,
+        "std_depth": 18245.963717484676
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/254033919_forest_stairs.png",
+        "mean_depth": 34388.527507236584,
+        "std_depth": 19002.212126852784
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/258564947_Phacelia_tanacetifolia.png",
+        "mean_depth": 18755.72330614035,
+        "std_depth": 17520.72954032547
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/258577687_blossom.png",
+        "mean_depth": 22189.872015789475,
+        "std_depth": 16803.903268965114
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/258824099_Gilia_tricolor.png",
+        "mean_depth": 13600.343407017544,
+        "std_depth": 14136.77424140945
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/258824101_Phacelia_tanacetifolia.png",
+        "mean_depth": 24839.847318421052,
+        "std_depth": 20480.519593141216
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/259634613_Gilia_tricolor.png",
+        "mean_depth": 15775.569391666666,
+        "std_depth": 14334.769799559155
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/260200183_bee_on_gilia_capitata.png",
+        "mean_depth": 18860.433287280703,
+        "std_depth": 21204.079513529225
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/260395273_cyanus_segetum.png",
+        "mean_depth": 16573.071942982457,
+        "std_depth": 17426.86316579624
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/260395297_cyanus_segetum.png",
+        "mean_depth": 14524.356980701754,
+        "std_depth": 17750.477768107263
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/260904605_cyanus_segetum-dark_red.png",
+        "mean_depth": 24938.53538903509,
+        "std_depth": 16249.404420980454
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/260998095_orange.png",
+        "mean_depth": 16255.528603070175,
+        "std_depth": 18704.092310157328
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/265472269_bee.png",
+        "mean_depth": 24983.554418421052,
+        "std_depth": 21419.069674852173
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/265610567_Mystic_Albula_II.png",
+        "mean_depth": 19166.64958087554,
+        "std_depth": 15511.572691116842
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/265815759_Blue_blossom.png",
+        "mean_depth": 14020.94273828125,
+        "std_depth": 14092.08908099613
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/268021827_Decksteiner_Weiher.png",
+        "mean_depth": 34188.71458260218,
+        "std_depth": 15237.020194973215
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/269063663_The_sleeping_beauty_photo-manipulation.png",
+        "mean_depth": 23994.624079161586,
+        "std_depth": 10454.2884070533
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/286547675_Greek_Graffiti_#noRape_#noGirlRape.png",
+        "mean_depth": 44916.303870706,
+        "std_depth": 14786.661502730123
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/286547725_Greek_Graffiti_#noRape_#noGirlRape.png",
+        "mean_depth": 42124.88680832807,
+        "std_depth": 15304.998098364855
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/287660881_Art_in_Cities,_Athens,_Greece-CC0_Royalty_free.png",
+        "mean_depth": 12539.908292510701,
+        "std_depth": 7749.007026427753
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/287661197_Art_in_Cities,_Athens,_Greece-CC0_Royalty_free.png",
+        "mean_depth": 25856.81488914046,
+        "std_depth": 13589.449180470423
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/287661253_Art_in_Cities,_Athens,_Greece-CC0_Royalty_free.png",
+        "mean_depth": 39921.17259505983,
+        "std_depth": 9560.392709841388
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/287661311_Art_in_Cities,_Athens,_Greece-CC0_Royalty_free.png",
+        "mean_depth": 32043.436776678456,
+        "std_depth": 16775.654293285297
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/287692485_.png",
+        "mean_depth": 38170.874716101695,
+        "std_depth": 13893.984737924973
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/287755583_Human_Catastrophic_Dominion.png",
+        "mean_depth": 31276.69012102545,
+        "std_depth": 11812.070509942749
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/287765245_Bring_the_Light.png",
+        "mean_depth": 20357.402503985388,
+        "std_depth": 14869.6503573807
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/287765263_Bring_the_Light.png",
+        "mean_depth": 24807.777924460108,
+        "std_depth": 17582.74723650494
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/289002539_graffiti.png",
+        "mean_depth": 32484.149656495872,
+        "std_depth": 11326.278701008405
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/291131203_Ancient_Clock_wind_Tower_of_Andronikos.png",
+        "mean_depth": 18472.5797568022,
+        "std_depth": 17583.410656163913
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/302137879_Cherry_Blossom.png",
+        "mean_depth": 16833.854251736113,
+        "std_depth": 15646.611592968626
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/302137935_Cherry_Blossom.png",
+        "mean_depth": 19711.054499565973,
+        "std_depth": 18198.19841891381
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/78781399_Nematobrycon_palmeri.png",
+        "mean_depth": 22730.79964477539,
+        "std_depth": 24207.466126393178
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/78786583_Hygrophila_polysperma.png",
+        "mean_depth": 28722.30308151245,
+        "std_depth": 14841.95331969816
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/78786585_Caridina_japonica.png",
+        "mean_depth": 26782.31667836507,
+        "std_depth": 17201.07071142894
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/78786593_Elsa_Victory_3D_graphics_card.png",
+        "mean_depth": 24781.572236938475,
+        "std_depth": 18537.494367756262
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/78827175_Mug_of_Cocoa.png",
+        "mean_depth": 31852.149023204354,
+        "std_depth": 23044.605801011116
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/78892111_Deventer.png",
+        "mean_depth": 23213.708834330242,
+        "std_depth": 14712.09452809457
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/78892113_Valkenswaard.png",
+        "mean_depth": 13807.639032999674,
+        "std_depth": 15395.93272330347
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/79030825_MM17B-0807_Rettilineo.png",
+        "mean_depth": 22404.521259409892,
+        "std_depth": 16287.433013800104
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/79225885_green_grasshopper.png",
+        "mean_depth": 21912.797811034583,
+        "std_depth": 22597.710218778466
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/79225887_Happy_Socks.png",
+        "mean_depth": 28665.946628626905,
+        "std_depth": 19188.58420077835
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/79226115_Nematobrycon_palmeri.png",
+        "mean_depth": 17205.050683250294,
+        "std_depth": 19667.058007473555
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/79280207_MM00A-0808_Pellgje.png",
+        "mean_depth": 17103.436676585556,
+        "std_depth": 17541.354186724522
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/80515617_Center_Parcs-De_Kempervennen.png",
+        "mean_depth": 23567.372604370117,
+        "std_depth": 16851.130609792803
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/84886855_Canadian_Silver.png",
+        "mean_depth": 30412.818210503472,
+        "std_depth": 17294.52852330643
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/84887859_Leipziger_Zoo.png",
+        "mean_depth": 17147.957638549804,
+        "std_depth": 16893.82709291357
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/85841635_Untitled.png",
+        "mean_depth": 31693.918321472298,
+        "std_depth": 18327.950583210866
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/500px_cc0/85841637_j.png",
+        "mean_depth": 29193.00620033989,
+        "std_depth": 19829.779158238693
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_256_20108408355_7235405d1d_b.png",
+        "mean_depth": 30147.112797973095,
+        "std_depth": 13336.676605131977
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_257_20145308899_8fecab3706_b.png",
+        "mean_depth": 22102.752089323953,
+        "std_depth": 21570.10690660007
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_259_19904572149_5e703aba8f_b.png",
+        "mean_depth": 28291.74197939577,
+        "std_depth": 17408.581137595345
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_259_19991817930_f00fc0becd_b.png",
+        "mean_depth": 27817.594597879302,
+        "std_depth": 17367.67495082267
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_261_19989471851_d7e99475e8_b.png",
+        "mean_depth": 34490.12214570887,
+        "std_depth": 20999.009235124275
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_261_20113393892_c98ea4f869_b.png",
+        "mean_depth": 28915.145698547363,
+        "std_depth": 19549.567009223767
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_261_20146436149_3e05c72bc3_b.png",
+        "mean_depth": 25475.541382685835,
+        "std_depth": 23545.60631727533
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_262_19974619602_f352b74c03_b.png",
+        "mean_depth": 51320.365825653076,
+        "std_depth": 19310.04627758905
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_262_20175426302_d85a79d75d_b.png",
+        "mean_depth": 13330.003874794107,
+        "std_depth": 19295.409183523265
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_263_19568286334_8d2ea52ce8_b.png",
+        "mean_depth": 40604.87779671486,
+        "std_depth": 20675.67125153654
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_263_20317768422_4a8537aff4_b.png",
+        "mean_depth": 29807.406589829443,
+        "std_depth": 23417.0944924627
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_264_20170485081_e00f7f442f_b.png",
+        "mean_depth": 10780.375292392608,
+        "std_depth": 14615.239944165212
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_265_19374350573_605ed03e40_b.png",
+        "mean_depth": 21934.629279302637,
+        "std_depth": 21316.123572683555
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_265_19975251408_eb64f15d0c_b.png",
+        "mean_depth": 19040.793539245515,
+        "std_depth": 12194.014221275507
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_265_20088446640_8b482ec6aa_b.png",
+        "mean_depth": 30563.164783468364,
+        "std_depth": 23005.52507994195
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_268_19457890593_9683dcac05_b.png",
+        "mean_depth": 32622.41134262085,
+        "std_depth": 21733.35115287243
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_270_19956408818_c1bf3e4a90_b.png",
+        "mean_depth": 15652.60712844777,
+        "std_depth": 17693.06812893785
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_276_19487779654_93e8643942_b.png",
+        "mean_depth": 31089.03536032378,
+        "std_depth": 21934.774621402008
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_277_19979425359_f0211ca11b_b.png",
+        "mean_depth": 34851.52238086795,
+        "std_depth": 14056.127200648489
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_277_20206656421_b1e3f2f84b_b.png",
+        "mean_depth": 20841.08262462253,
+        "std_depth": 16659.426086477677
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_278_19567747883_b92c094c42_b.png",
+        "mean_depth": 27538.207434207507,
+        "std_depth": 20984.757982695584
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_279_19554444633_0e644b508a_b.png",
+        "mean_depth": 38437.18918609619,
+        "std_depth": 21165.841449283223
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_279_19582617234_4272f2bafc_b.png",
+        "mean_depth": 27848.561367091286,
+        "std_depth": 20339.787503220436
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_279_20103076952_2e7e2c1928_b.png",
+        "mean_depth": 19782.467023213703,
+        "std_depth": 17807.774040943186
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_280_20093792980_f50c7a0843_b.png",
+        "mean_depth": 30728.47560881451,
+        "std_depth": 16236.104264042748
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_281_20073785960_fa8320e40d_b.png",
+        "mean_depth": 36638.70833146253,
+        "std_depth": 15410.589109255097
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_283_20279460231_e5a417129d_b.png",
+        "mean_depth": 28197.191934297814,
+        "std_depth": 18281.449284136277
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_284_19910128878_9de0648e36_b.png",
+        "mean_depth": 29695.87977986594,
+        "std_depth": 16140.434176691128
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_285_20100530039_2b24248337_b.png",
+        "mean_depth": 21378.673283894856,
+        "std_depth": 14714.29725979606
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_286_19998340455_4629caa4ca_b.png",
+        "mean_depth": 28996.901813486416,
+        "std_depth": 23046.46328742851
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_286_20176085962_75c7d0de96_b.png",
+        "mean_depth": 24124.347911834717,
+        "std_depth": 15616.409659369052
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_287_19369653073_174e43769e_b.png",
+        "mean_depth": 17696.180257161457,
+        "std_depth": 9832.762366430987
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_287_20077091498_a53049dca4_b.png",
+        "mean_depth": 19044.031142764,
+        "std_depth": 20440.789593561953
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_289_19532950774_54aa089edf_b.png",
+        "mean_depth": 23203.263152183845,
+        "std_depth": 15187.481281447668
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_289_20023267860_b2fbe84818_b.png",
+        "mean_depth": 31673.733262605234,
+        "std_depth": 16562.380649544033
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_290_19802576129_70fec5a254_b.png",
+        "mean_depth": 25647.677341037328,
+        "std_depth": 17649.46221856856
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_290_20173238352_7e4022db65_b.png",
+        "mean_depth": 25717.086885466233,
+        "std_depth": 18657.919887534983
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_290_20339414661_68ed81a322_b.png",
+        "mean_depth": 32217.957186381023,
+        "std_depth": 16230.411922940122
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_291_20127082956_3e23d26595_b.png",
+        "mean_depth": 34250.28923693723,
+        "std_depth": 17192.639747177105
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_291_20280614061_476d44a107_b.png",
+        "mean_depth": 28945.35925547282,
+        "std_depth": 18437.769672117272
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_292_20207312211_2439362997_b.png",
+        "mean_depth": 27331.20920579743,
+        "std_depth": 18736.284817613247
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_296_19544564444_acd117c7fb_b.png",
+        "mean_depth": 22488.90085531433,
+        "std_depth": 19214.05657721915
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_297_19951672000_af582f2811_b.png",
+        "mean_depth": 30116.923122073717,
+        "std_depth": 23798.12908416247
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_297_20184569842_07504838e2_b.png",
+        "mean_depth": 24050.616608425604,
+        "std_depth": 18752.013626988075
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_298_20193612992_a48f3f9182_b.png",
+        "mean_depth": 39259.70972039777,
+        "std_depth": 18322.218657814672
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_301_19659786384_c86c7e1f30_b.png",
+        "mean_depth": 32971.43163061631,
+        "std_depth": 19157.249161053718
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_301_20174123975_4660281e14_b.png",
+        "mean_depth": 31596.89249420166,
+        "std_depth": 20690.282029744994
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_302_19372128533_281fea7e2e_b.png",
+        "mean_depth": 34700.62571875,
+        "std_depth": 18270.619792726968
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_302_20008307639_18ab5937b6_b.png",
+        "mean_depth": 24854.262139638264,
+        "std_depth": 23794.406018788348
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_303_20084580408_3b9027309e_b.png",
+        "mean_depth": 21171.24755429802,
+        "std_depth": 15059.618079630387
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_304_20171662422_a9e902c847_b.png",
+        "mean_depth": 25390.21451441447,
+        "std_depth": 15380.826694631378
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_306_20079266780_e15cfa29d0_b.png",
+        "mean_depth": 15263.876497303749,
+        "std_depth": 18027.537328457318
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_306_20170706135_257c54aa95_b.png",
+        "mean_depth": 18460.765506744385,
+        "std_depth": 13569.90659150319
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_310_20003076769_c811095fa0_b.png",
+        "mean_depth": 29529.446404774983,
+        "std_depth": 18117.074812934257
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_314_20304197496_d474a48c98_b.png",
+        "mean_depth": 22896.64116414388,
+        "std_depth": 18120.914901595348
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_315_20087406900_266a4da72a_b.png",
+        "mean_depth": 32235.07280137804,
+        "std_depth": 17491.243678814095
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_315_20204436725_4276fa3844_b.png",
+        "mean_depth": 27686.705033620197,
+        "std_depth": 19102.039869372085
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_317_20140860700_bacb841bf9_b.png",
+        "mean_depth": 41499.14827736091,
+        "std_depth": 18385.848022883856
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_319_20093364669_bd566b2039_b.png",
+        "mean_depth": 25825.603604937576,
+        "std_depth": 21960.46588548456
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_319_20184326042_559072e14e_b.png",
+        "mean_depth": 17969.250398423937,
+        "std_depth": 14127.08461406714
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_322_19448580494_77b3ae1257_b.png",
+        "mean_depth": 13878.517529440065,
+        "std_depth": 10758.18959184353
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_322_20071113392_6e05f37c1e_b.png",
+        "mean_depth": 18128.678721770997,
+        "std_depth": 17220.737589022014
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_322_20193542405_a828847c67_b.png",
+        "mean_depth": 17009.115542093914,
+        "std_depth": 12118.747468573458
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_323_20261406715_b27f6464c8_b.png",
+        "mean_depth": 27614.89730508785,
+        "std_depth": 15166.653966822838
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_324_20148090636_774c7baec6_b.png",
+        "mean_depth": 31543.154158183108,
+        "std_depth": 19031.026724579326
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_324_20177230262_5cb9e96a55_b.png",
+        "mean_depth": 27679.06325785319,
+        "std_depth": 18691.877267733606
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_324_20181408545_d4c68ea39b_b.png",
+        "mean_depth": 27147.19742004484,
+        "std_depth": 19075.32641988016
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_325_20017819769_2537eb5231_b.png",
+        "mean_depth": 22360.760934193928,
+        "std_depth": 16359.398905337683
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_327_19555183573_4deb0f52f3_b.png",
+        "mean_depth": 29240.66641428047,
+        "std_depth": 23280.373605465546
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_329_19805177820_797174ca4c_b.png",
+        "mean_depth": 37208.827644559766,
+        "std_depth": 19836.54542522231
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_329_19978514652_20d035497f_b.png",
+        "mean_depth": 22771.79342057101,
+        "std_depth": 20618.833850071438
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_329_20186252575_79ddb60286_b.png",
+        "mean_depth": 15521.232599171852,
+        "std_depth": 14696.476103025905
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_330_19987511871_12c1fb96b5_b.png",
+        "mean_depth": 28965.42240832037,
+        "std_depth": 16749.518565094855
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_330_19988832649_ba5a1d5c05_b.png",
+        "mean_depth": 28205.508211417917,
+        "std_depth": 13863.813011842896
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_331_20160295456_4d32161028_b.png",
+        "mean_depth": 29478.922170003254,
+        "std_depth": 21896.0481232748
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_331_20202921751_e7376ef0e5_b.png",
+        "mean_depth": 22091.47861099243,
+        "std_depth": 13206.904698699194
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_332_19710092703_307581375f_b.png",
+        "mean_depth": 10257.574118663068,
+        "std_depth": 5639.1120630965615
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_333_19457197953_5b85456980_b.png",
+        "mean_depth": 21709.326873779297,
+        "std_depth": 20026.744925204715
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_333_19966994608_ddcfbd68ac_b.png",
+        "mean_depth": 29168.479053586027,
+        "std_depth": 17697.366927291212
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_336_19484264004_c3b5dd4eae_b.png",
+        "mean_depth": 22169.792325334005,
+        "std_depth": 16414.005549470785
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_336_20161142751_c10d128c7d_b.png",
+        "mean_depth": 29539.595390453673,
+        "std_depth": 19098.492084802878
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_338_19913265879_1463dc981f_b.png",
+        "mean_depth": 17789.443596724013,
+        "std_depth": 20506.080121277853
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_339_20086253882_d50bac6236_b.png",
+        "mean_depth": 31047.48047214674,
+        "std_depth": 12862.111323721843
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_340_19965231320_a2f30be891_b.png",
+        "mean_depth": 35078.91599989705,
+        "std_depth": 21619.256736124593
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_340_20079599366_09404860f8_b.png",
+        "mean_depth": 42348.41798356367,
+        "std_depth": 14797.475831194979
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_342_20193681471_223d834818_b.png",
+        "mean_depth": 24639.980805742933,
+        "std_depth": 16337.12624623671
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_343_20005991269_04c83d3d37_b.png",
+        "mean_depth": 26786.983305499634,
+        "std_depth": 21141.443588619743
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_344_20256880402_f9749a5c67_b.png",
+        "mean_depth": 25557.307117038305,
+        "std_depth": 19372.336079176795
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_345_20142951888_f2b0526362_b.png",
+        "mean_depth": 15136.583260889458,
+        "std_depth": 8969.623065822847
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_346_20104494812_a9031d331a_b.png",
+        "mean_depth": 15406.888410568237,
+        "std_depth": 15528.566792816724
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_348_19532915394_07c0aaa27a_b.png",
+        "mean_depth": 27573.943909048336,
+        "std_depth": 20852.36079342395
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_348_19985779509_7054a983b3_b.png",
+        "mean_depth": 21051.884295958578,
+        "std_depth": 14017.152775487439
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_350_19581444864_f9a7cc3c8a_b.png",
+        "mean_depth": 29369.057123195358,
+        "std_depth": 18257.669779066695
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_350_19941025709_36f0052df4_b.png",
+        "mean_depth": 29302.20074081421,
+        "std_depth": 18348.565027810306
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_350_20017252500_d2eb119a96_b.png",
+        "mean_depth": 33132.318612451956,
+        "std_depth": 21171.30393290741
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_351_19590339854_d2a324916b_b.png",
+        "mean_depth": 14595.128560384115,
+        "std_depth": 18009.521273623403
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_351_20093609982_2ac03ea71f_b.png",
+        "mean_depth": 29173.990939272968,
+        "std_depth": 20806.583268070797
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_351_20168618246_3b80c8a1ec_b.png",
+        "mean_depth": 34463.219075520836,
+        "std_depth": 18057.095914144604
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_352_20188180465_5a976e168d_b.png",
+        "mean_depth": 19532.093060239997,
+        "std_depth": 21186.13178989362
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_353_20065672326_fea4ccbb04_b.png",
+        "mean_depth": 30394.60076522827,
+        "std_depth": 18317.66269604028
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_355_20145666190_42aa843713_b.png",
+        "mean_depth": 25012.034914652508,
+        "std_depth": 16823.383970377174
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_355_20167773412_57c4c8c921_b.png",
+        "mean_depth": 28944.874054893393,
+        "std_depth": 16899.947930498893
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_355_20180456301_762ef742a2_b.png",
+        "mean_depth": 20091.684677124023,
+        "std_depth": 15086.764683534657
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_356_20254094322_628ccf5c08_b.png",
+        "mean_depth": 16157.613494292185,
+        "std_depth": 12052.078865638503
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_357_20094651972_f1d33dbfb7_b.png",
+        "mean_depth": 20462.467263115777,
+        "std_depth": 15677.40150203787
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_357_20270116805_36f8cc0e44_b.png",
+        "mean_depth": 18384.77669813368,
+        "std_depth": 15379.245319653144
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_358_19552188594_ac3e5ddcb2_b.png",
+        "mean_depth": 34952.126957446075,
+        "std_depth": 23072.000514214695
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_359_20299142256_f78a4d0f8a_b.png",
+        "mean_depth": 17778.899432430448,
+        "std_depth": 14932.722923583024
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_361_19926485388_d1c225bf5b_b.png",
+        "mean_depth": 10971.237007789214,
+        "std_depth": 13110.939319710265
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_363_19871337810_697c3ef9c2_b.png",
+        "mean_depth": 38518.28478156196,
+        "std_depth": 17850.760515765356
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_364_20016052950_d22173e508_b.png",
+        "mean_depth": 40000.08163070679,
+        "std_depth": 16940.757925973558
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_367_19986592222_8d16558f5c_b.png",
+        "mean_depth": 27214.0514513838,
+        "std_depth": 11904.058768534978
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_367_20204921381_2e6425892d_b.png",
+        "mean_depth": 32807.98255902552,
+        "std_depth": 13659.618772256461
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_369_20189147701_623e9014e0_b.png",
+        "mean_depth": 29108.0161236116,
+        "std_depth": 11587.797445497697
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_371_19705832873_8be4c91468_b.png",
+        "mean_depth": 12514.787288101665,
+        "std_depth": 15393.73719416412
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_371_20160056341_dcd996239d_b.png",
+        "mean_depth": 20911.603958219115,
+        "std_depth": 16894.684774334743
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_371_20279219205_8d39743f20_b.png",
+        "mean_depth": 31431.392689977973,
+        "std_depth": 15654.366943351186
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_374_20088211688_db3d4e9c2e_b.png",
+        "mean_depth": 27029.77036483117,
+        "std_depth": 12492.783127303659
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_375_20274692905_a564199b2b_b.png",
+        "mean_depth": 35011.6296005249,
+        "std_depth": 17921.291807110825
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_377_19533066754_5a45600dfc_b.png",
+        "mean_depth": 24722.857778805737,
+        "std_depth": 11621.811387871005
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_377_20109921162_9abce944bb_b.png",
+        "mean_depth": 30953.987707987646,
+        "std_depth": 21574.936263866115
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_379_20074350248_d5968ab917_b.png",
+        "mean_depth": 25768.470371842737,
+        "std_depth": 16782.55796833368
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_380_19903254428_ce1c8a7865_b.png",
+        "mean_depth": 22890.807452758967,
+        "std_depth": 18572.427120019092
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_380_20103549952_74645fb33e_b.png",
+        "mean_depth": 11181.568648020426,
+        "std_depth": 17896.56971819331
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_382_20022242120_0274c90611_b.png",
+        "mean_depth": 52784.14576306672,
+        "std_depth": 12581.469745319115
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_384_19910142928_d83bca48a8_b.png",
+        "mean_depth": 17909.542406833363,
+        "std_depth": 16903.842824634627
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_384_20168905551_3f2644a9b9_b.png",
+        "mean_depth": 33494.57579543471,
+        "std_depth": 20260.733698583896
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_388_19654344563_b4c75259f3_b.png",
+        "mean_depth": 20654.74387105306,
+        "std_depth": 12699.46363499575
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_388_20187671205_871dd0eb2e_b.png",
+        "mean_depth": 30322.20593516032,
+        "std_depth": 20227.352261229284
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_389_20011898609_37733ee9b3_b.png",
+        "mean_depth": 25158.01558326656,
+        "std_depth": 19712.068879576367
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_390_19884690949_ffa3931be6_b.png",
+        "mean_depth": 15896.139841462298,
+        "std_depth": 16555.618825650734
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_390_20183771975_d930506da8_b.png",
+        "mean_depth": 16668.86181497434,
+        "std_depth": 13370.139457764859
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_392_19489099813_d3e00cd5bb_b.png",
+        "mean_depth": 21149.4134934343,
+        "std_depth": 18260.548084286365
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_392_19561367224_130222cde8_b.png",
+        "mean_depth": 29056.57522104914,
+        "std_depth": 14185.344923422772
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_392_19806980609_a644a42a87_b.png",
+        "mean_depth": 7703.704437255859,
+        "std_depth": 14851.310646162096
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_392_20116153865_096e564d90_b.png",
+        "mean_depth": 21026.142099137538,
+        "std_depth": 23426.59900426271
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_393_20075234966_70e5027248_b.png",
+        "mean_depth": 18799.016983032227,
+        "std_depth": 14798.004870223094
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_393_20270521432_cdcaf0f6fe_b.png",
+        "mean_depth": 12988.735031777716,
+        "std_depth": 12849.029028597766
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_396_19799722028_50ee148942_b.png",
+        "mean_depth": 28185.84967508338,
+        "std_depth": 18400.88147675591
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_396_20111865761_0af5a120d9_b.png",
+        "mean_depth": 11205.693416595459,
+        "std_depth": 15852.040959721759
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_399_19971092260_7053a35a7d_b.png",
+        "mean_depth": 13563.239433288574,
+        "std_depth": 16049.301358837558
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_402_20186695415_eb1cfdb28c_b.png",
+        "mean_depth": 29265.699193318684,
+        "std_depth": 13672.671396188674
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_409_20194505182_911d5806b9_b.png",
+        "mean_depth": 17062.70732107776,
+        "std_depth": 19559.18048880733
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_411_20147625392_b9af7bf64e_b.png",
+        "mean_depth": 39582.293288559944,
+        "std_depth": 17634.41871073163
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_415_19512852113_76daf0e211_b.png",
+        "mean_depth": 28858.920025116444,
+        "std_depth": 17672.629783429973
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_418_19360171504_c2d719d827_b.png",
+        "mean_depth": 28816.73734633502,
+        "std_depth": 21646.973783178368
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_419_19706412744_24bee0c9d0_b.png",
+        "mean_depth": 30168.255637668917,
+        "std_depth": 25813.756528076658
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_423_19460358423_ac899734a4_b.png",
+        "mean_depth": 31363.019511232615,
+        "std_depth": 20881.907994966972
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_431_20189822091_6aa7d58d18_b.png",
+        "mean_depth": 43707.90676371256,
+        "std_depth": 12263.616097850601
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_433_19500747453_186d5a2421_b.png",
+        "mean_depth": 17706.50753963695,
+        "std_depth": 17879.54059662958
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_448_19640864133_073fff089d_b.png",
+        "mean_depth": 17965.449363798252,
+        "std_depth": 16461.69403544107
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_449_19456397864_d74f909b3b_b.png",
+        "mean_depth": 14250.791594941737,
+        "std_depth": 16997.156493578477
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_450_19988427855_4dfb95d330_b.png",
+        "mean_depth": 6641.758836246339,
+        "std_depth": 12261.640443788448
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_451_19977602990_fd81f29e46_b.png",
+        "mean_depth": 33981.20741395692,
+        "std_depth": 16488.220077209746
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_452_19569923444_3496eb7988_b.png",
+        "mean_depth": 16238.15919684526,
+        "std_depth": 18891.440570984025
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_453_19986871390_9188e09831_b.png",
+        "mean_depth": 27310.95872481874,
+        "std_depth": 20053.665549369365
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_459_20126431126_0e5284a75e_b.png",
+        "mean_depth": 18236.20933181964,
+        "std_depth": 16720.460739397407
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_471_19449545644_8e7c127828_b.png",
+        "mean_depth": 18613.971909887445,
+        "std_depth": 13614.803439674368
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_486_20002923240_770ed2f527_b.png",
+        "mean_depth": 41692.9202979159,
+        "std_depth": 19870.022318470372
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_507_20180585645_faaf3719c3_b.png",
+        "mean_depth": 15336.289684468797,
+        "std_depth": 12523.873148556828
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_511_19810567668_e61278e0a7_b.png",
+        "mean_depth": 24222.889714241028,
+        "std_depth": 16538.038837055952
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_515_19911839200_aed2397008_b.png",
+        "mean_depth": 36283.52099290237,
+        "std_depth": 22701.993433460037
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_527_19534187673_2cc822690b_b.png",
+        "mean_depth": 24670.77901989675,
+        "std_depth": 11777.924882905032
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_535_20128319006_de0a05376f_b.png",
+        "mean_depth": 30555.51035955775,
+        "std_depth": 19776.859244090432
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_546_19894951500_a19ce7092d_b.png",
+        "mean_depth": 21468.612448065356,
+        "std_depth": 15550.01528987294
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_551_19542178634_a28b694bb3_b.png",
+        "mean_depth": 4392.842854097529,
+        "std_depth": 11548.22737302899
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_559_20288394741_ed9034e07f_b.png",
+        "mean_depth": 14333.9394102306,
+        "std_depth": 19778.86865436676
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_560_20011150378_724ab1045a_b.png",
+        "mean_depth": 26891.208789626988,
+        "std_depth": 21476.730467878406
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm1_561_19795891099_319a4ff595_b.png",
+        "mean_depth": 16917.69494235131,
+        "std_depth": 16086.88057511427
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3668_19649625284_f439568559_b.png",
+        "mean_depth": 47523.0205116272,
+        "std_depth": 12065.878028140382
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3675_19534648023_6b02413da6_b.png",
+        "mean_depth": 24920.072474072553,
+        "std_depth": 17066.101129911982
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3678_19808482618_19725e36b9_b.png",
+        "mean_depth": 12482.559048609663,
+        "std_depth": 16339.126622467853
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3679_19997101795_09efbe6736_b.png",
+        "mean_depth": 20970.322589605636,
+        "std_depth": 9698.075504918503
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3683_20129520191_ca36630f94_b.png",
+        "mean_depth": 20600.755285898846,
+        "std_depth": 15676.835968486293
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3683_20192974221_7b0f05c009_b.png",
+        "mean_depth": 23928.073621114094,
+        "std_depth": 20767.177106748877
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3688_19800333138_5a2c799e82_b.png",
+        "mean_depth": 28862.867788021595,
+        "std_depth": 17398.272567042124
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3689_20331966965_5a7d52a28c_b.png",
+        "mean_depth": 26214.89356467791,
+        "std_depth": 20521.072626205296
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3690_20155850165_68afe0b24d_b.png",
+        "mean_depth": 15824.068834806743,
+        "std_depth": 13549.252436154526
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3739_20267821945_b7014d86b8_b.png",
+        "mean_depth": 14649.083185831705,
+        "std_depth": 13125.798708129872
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3745_20008422870_9fe1b607ac_b.png",
+        "mean_depth": 34207.257506370544,
+        "std_depth": 17284.889800640736
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3760_19581707063_411fc9e8e6_b.png",
+        "mean_depth": 22812.283084623996,
+        "std_depth": 17626.98108755735
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3826_20002905928_541dcc788c_b.png",
+        "mean_depth": 46908.575322565885,
+        "std_depth": 19618.47324123031
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/aadb/farm4_3834_20201553675_ce84dd04c1_b.png",
+        "mean_depth": 29369.662175854606,
+        "std_depth": 21126.053291771852
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/10003.png",
+        "mean_depth": 32417.171242954246,
+        "std_depth": 20475.919840289822
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/103189.png",
+        "mean_depth": 12035.266243734335,
+        "std_depth": 16311.04943134059
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/119481.png",
+        "mean_depth": 13807.059239607728,
+        "std_depth": 17502.344958980528
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/120247.png",
+        "mean_depth": 10109.113349609375,
+        "std_depth": 9325.737151028776
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/123510.png",
+        "mean_depth": 18121.71994140625,
+        "std_depth": 12643.838549943188
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/126749.png",
+        "mean_depth": 50577.923393183446,
+        "std_depth": 13672.826658125285
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/127546.png",
+        "mean_depth": 20060.63639577657,
+        "std_depth": 16696.137013099502
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/13122.png",
+        "mean_depth": 25076.396220703125,
+        "std_depth": 18605.588243921105
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/143760.png",
+        "mean_depth": 46684.87611973068,
+        "std_depth": 15737.344865314604
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/148871.png",
+        "mean_depth": 32649.891027378693,
+        "std_depth": 16785.397895728995
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/16080.png",
+        "mean_depth": 25352.982488839287,
+        "std_depth": 21296.11154668427
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/1624.png",
+        "mean_depth": 32781.141148272836,
+        "std_depth": 20894.503861923662
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/166567.png",
+        "mean_depth": 44103.46725375442,
+        "std_depth": 19960.968126785618
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/16770.png",
+        "mean_depth": 22060.431441557397,
+        "std_depth": 23323.065829296942
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/17427.png",
+        "mean_depth": 26970.82208610188,
+        "std_depth": 14815.682311199966
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/177393.png",
+        "mean_depth": 34332.253149805256,
+        "std_depth": 22646.92295809025
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/178137.png",
+        "mean_depth": 30653.290900978318,
+        "std_depth": 20268.395751089352
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/17903.png",
+        "mean_depth": 19107.76857242766,
+        "std_depth": 19992.671147835536
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/190590.png",
+        "mean_depth": 37224.00987525988,
+        "std_depth": 17893.587970585
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/19430.png",
+        "mean_depth": 47157.059095052085,
+        "std_depth": 15199.45280084477
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/197602.png",
+        "mean_depth": 13228.527898284314,
+        "std_depth": 17141.798902411338
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/198956.png",
+        "mean_depth": 44855.508047727846,
+        "std_depth": 12599.002923165619
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/208446.png",
+        "mean_depth": 32931.89421634054,
+        "std_depth": 15343.14051349125
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/211469.png",
+        "mean_depth": 21125.544397687354,
+        "std_depth": 18262.828216143746
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/220992.png",
+        "mean_depth": 28175.770395688658,
+        "std_depth": 15147.434058844216
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/23394.png",
+        "mean_depth": 35445.665651834504,
+        "std_depth": 13525.721721322172
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/234504.png",
+        "mean_depth": 18100.32494276795,
+        "std_depth": 20335.518954837786
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/239531.png",
+        "mean_depth": 41674.35803105428,
+        "std_depth": 14495.198884116562
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/251597.png",
+        "mean_depth": 23297.536416861825,
+        "std_depth": 16091.29165663184
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/252554.png",
+        "mean_depth": 25151.8534453427,
+        "std_depth": 13737.144250352434
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/255241.png",
+        "mean_depth": 21947.198138020834,
+        "std_depth": 16304.0183867298
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/262335.png",
+        "mean_depth": 29883.413606887174,
+        "std_depth": 26662.8413030823
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/263151.png",
+        "mean_depth": 17689.401840986786,
+        "std_depth": 17381.64177618338
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/265373.png",
+        "mean_depth": 39464.08407296237,
+        "std_depth": 14439.035018435077
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/267110.png",
+        "mean_depth": 14129.775428132318,
+        "std_depth": 12681.094360824976
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/26927.png",
+        "mean_depth": 36649.99760105965,
+        "std_depth": 15180.391525764235
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/284836.png",
+        "mean_depth": 40253.41511341223,
+        "std_depth": 16645.586378211134
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/285660.png",
+        "mean_depth": 25776.01859375,
+        "std_depth": 13736.789641106438
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/29598.png",
+        "mean_depth": 25266.854889322916,
+        "std_depth": 18284.446554252867
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/298346.png",
+        "mean_depth": 22262.914310515873,
+        "std_depth": 17968.488749706485
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/298565.png",
+        "mean_depth": 13677.681125585481,
+        "std_depth": 14387.289007981153
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/300680.png",
+        "mean_depth": 30037.08556233509,
+        "std_depth": 22979.330005478332
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/301332.png",
+        "mean_depth": 24267.592656657962,
+        "std_depth": 17799.713828245593
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/306874.png",
+        "mean_depth": 25975.552860670196,
+        "std_depth": 19859.769656330365
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/306946.png",
+        "mean_depth": 32342.069256591796,
+        "std_depth": 17298.10143334005
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/309716.png",
+        "mean_depth": 33599.22619140625,
+        "std_depth": 17574.306409295797
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/311199.png",
+        "mean_depth": 18374.91079711914,
+        "std_depth": 20943.23505152869
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/312526.png",
+        "mean_depth": 28900.76235955056,
+        "std_depth": 22055.98666359942
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/316563.png",
+        "mean_depth": 31323.87057230679,
+        "std_depth": 19830.57485319772
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/326123.png",
+        "mean_depth": 27284.78480943341,
+        "std_depth": 22588.83379795605
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/327615.png",
+        "mean_depth": 47879.99554429647,
+        "std_depth": 21810.128249833273
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/3295.png",
+        "mean_depth": 27155.842080078124,
+        "std_depth": 25371.82141677828
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/334276.png",
+        "mean_depth": 28390.02154979067,
+        "std_depth": 19022.782353630537
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/335761.png",
+        "mean_depth": 29290.821035411856,
+        "std_depth": 23920.600159759015
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/341668.png",
+        "mean_depth": 11857.670145538108,
+        "std_depth": 10944.0025827701
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/342075.png",
+        "mean_depth": 16116.568431645199,
+        "std_depth": 16126.898173094209
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/347819.png",
+        "mean_depth": 28680.221079166666,
+        "std_depth": 13589.861781816246
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/348886.png",
+        "mean_depth": 41120.5246875,
+        "std_depth": 12663.90354603816
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/362908.png",
+        "mean_depth": 13549.575045138889,
+        "std_depth": 17134.971417765657
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/364370.png",
+        "mean_depth": 20520.151039227167,
+        "std_depth": 15432.210744709333
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/370709.png",
+        "mean_depth": 7514.954768440315,
+        "std_depth": 9006.209791740956
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/375809.png",
+        "mean_depth": 16502.766964285714,
+        "std_depth": 18278.722977310394
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/380844.png",
+        "mean_depth": 27881.684444444443,
+        "std_depth": 22178.260742054725
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/387352.png",
+        "mean_depth": 41973.95051697531,
+        "std_depth": 20759.545328080007
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/38795.png",
+        "mean_depth": 27079.862286490683,
+        "std_depth": 22072.04251188648
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/38857.png",
+        "mean_depth": 21013.703024088543,
+        "std_depth": 20980.96708492725
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/388808.png",
+        "mean_depth": 12672.741923121253,
+        "std_depth": 12982.249056245962
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/394334.png",
+        "mean_depth": 28691.517400830257,
+        "std_depth": 19356.912016274335
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/397947.png",
+        "mean_depth": 25044.22442979767,
+        "std_depth": 21023.280451703467
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/41981.png",
+        "mean_depth": 27026.130488394585,
+        "std_depth": 19211.90049895606
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/42415.png",
+        "mean_depth": 39406.91938476563,
+        "std_depth": 22294.04114125646
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/425847.png",
+        "mean_depth": 43951.28094262295,
+        "std_depth": 21413.959742949442
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/43085.png",
+        "mean_depth": 21663.076820695103,
+        "std_depth": 16339.721544207488
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/4311.png",
+        "mean_depth": 42825.43587895199,
+        "std_depth": 16471.37093044525
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/434637.png",
+        "mean_depth": 21795.34052083333,
+        "std_depth": 19638.758554002132
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/447976.png",
+        "mean_depth": 18240.046044350118,
+        "std_depth": 17393.460831087657
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/45312.png",
+        "mean_depth": 30352.921841935484,
+        "std_depth": 19841.769069227976
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/459853.png",
+        "mean_depth": 17976.765829248365,
+        "std_depth": 13923.263965483475
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/471362.png",
+        "mean_depth": 39035.77169599514,
+        "std_depth": 19525.9739561876
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/480318.png",
+        "mean_depth": 32709.558037173203,
+        "std_depth": 13720.631416985707
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/48758.png",
+        "mean_depth": 23590.09698566901,
+        "std_depth": 24717.013191344908
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/488310.png",
+        "mean_depth": 38751.16509448224,
+        "std_depth": 15355.236601170347
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/502062.png",
+        "mean_depth": 19782.41232096354,
+        "std_depth": 16462.560248811275
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/506.png",
+        "mean_depth": 22950.385146484376,
+        "std_depth": 14617.149899640935
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/51662.png",
+        "mean_depth": 16445.02155519006,
+        "std_depth": 13950.486606866716
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/5195.png",
+        "mean_depth": 37524.65461914062,
+        "std_depth": 16126.161075934295
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/52586.png",
+        "mean_depth": 18966.292565104166,
+        "std_depth": 14886.146640572688
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/533983.png",
+        "mean_depth": 44254.403361162644,
+        "std_depth": 23623.681077272297
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/534049.png",
+        "mean_depth": 21193.13720079787,
+        "std_depth": 12048.59914575333
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/54542.png",
+        "mean_depth": 21736.593229166665,
+        "std_depth": 19983.53664848309
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/556732.png",
+        "mean_depth": 12906.69906,
+        "std_depth": 9802.904885413054
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/570220.png",
+        "mean_depth": 31286.773844401043,
+        "std_depth": 18540.567719237988
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/579488.png",
+        "mean_depth": 24764.113397633744,
+        "std_depth": 18375.618869969414
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/579832.png",
+        "mean_depth": 27707.529216299175,
+        "std_depth": 19923.47387803748
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/59700.png",
+        "mean_depth": 43024.74070115959,
+        "std_depth": 12625.685175012879
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/598086.png",
+        "mean_depth": 17780.02602571116,
+        "std_depth": 16067.597927246024
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/604387.png",
+        "mean_depth": 15652.997401932083,
+        "std_depth": 17998.364454960327
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/605727.png",
+        "mean_depth": 14541.176283033461,
+        "std_depth": 15433.89496705773
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/620831.png",
+        "mean_depth": 29241.84778138528,
+        "std_depth": 21470.245901807
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/620881.png",
+        "mean_depth": 12273.061197375615,
+        "std_depth": 18512.279118382627
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/625519.png",
+        "mean_depth": 26032.045319010416,
+        "std_depth": 21142.801912384086
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/632095.png",
+        "mean_depth": 46491.75195129108,
+        "std_depth": 15533.689159690455
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/6358.png",
+        "mean_depth": 14518.877080078126,
+        "std_depth": 13452.55910836016
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/638383.png",
+        "mean_depth": 30788.64609104879,
+        "std_depth": 18141.80713430855
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/638912.png",
+        "mean_depth": 29424.121462053572,
+        "std_depth": 20990.06896550626
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/643621.png",
+        "mean_depth": 22123.4417414791,
+        "std_depth": 17261.579101765372
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/652045.png",
+        "mean_depth": 33778.21485243323,
+        "std_depth": 19047.7611470728
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/667083.png",
+        "mean_depth": 21809.608161621094,
+        "std_depth": 15990.267636216025
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/671335.png",
+        "mean_depth": 29384.32046084546,
+        "std_depth": 17593.255313657042
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/671516.png",
+        "mean_depth": 25443.602073600523,
+        "std_depth": 23015.129954557553
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/676133.png",
+        "mean_depth": 25989.255209581795,
+        "std_depth": 11432.39372999644
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/683341.png",
+        "mean_depth": 43666.82313342925,
+        "std_depth": 18710.957295871278
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/685212.png",
+        "mean_depth": 35447.68398658192,
+        "std_depth": 23247.264233005306
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/689702.png",
+        "mean_depth": 24193.500878432955,
+        "std_depth": 20664.932272360784
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/6904.png",
+        "mean_depth": 34028.24624674479,
+        "std_depth": 19601.41384147604
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/71729.png",
+        "mean_depth": 27106.73062174479,
+        "std_depth": 20831.29928879723
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/727153.png",
+        "mean_depth": 44119.190728415604,
+        "std_depth": 20197.514256033974
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/727495.png",
+        "mean_depth": 24392.267918291993,
+        "std_depth": 22132.58019965252
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/728541.png",
+        "mean_depth": 18554.561626538256,
+        "std_depth": 14080.922644535796
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/729015.png",
+        "mean_depth": 26082.57065928928,
+        "std_depth": 14628.70419289672
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/734292.png",
+        "mean_depth": 33165.83544600939,
+        "std_depth": 18215.69133641386
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/734876.png",
+        "mean_depth": 17788.383197337964,
+        "std_depth": 17041.864564030508
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/740346.png",
+        "mean_depth": 32129.201352145796,
+        "std_depth": 15698.982870745242
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/746084.png",
+        "mean_depth": 26686.345667447305,
+        "std_depth": 18648.796352561218
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/749800.png",
+        "mean_depth": 27879.333761574075,
+        "std_depth": 23126.038404143936
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/750175.png",
+        "mean_depth": 38019.671815161586,
+        "std_depth": 22488.54413558835
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/755084.png",
+        "mean_depth": 30562.40099101342,
+        "std_depth": 24045.9408945127
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/755941.png",
+        "mean_depth": 32899.49107048225,
+        "std_depth": 18686.23503907713
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/761466.png",
+        "mean_depth": 30277.66298687185,
+        "std_depth": 18592.25393783325
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/771524.png",
+        "mean_depth": 16660.592112268518,
+        "std_depth": 16765.16887269881
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/775306.png",
+        "mean_depth": 24682.425076703923,
+        "std_depth": 20050.78742323716
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/776337.png",
+        "mean_depth": 37022.12474941038,
+        "std_depth": 14294.704652910921
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/778833.png",
+        "mean_depth": 18161.020565039435,
+        "std_depth": 9315.534718416508
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/780373.png",
+        "mean_depth": 22984.31615934522,
+        "std_depth": 22454.235462586927
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/784883.png",
+        "mean_depth": 17330.299397840532,
+        "std_depth": 21198.18682085025
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/786793.png",
+        "mean_depth": 39017.372948438635,
+        "std_depth": 22171.99025616047
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/792513.png",
+        "mean_depth": 14191.906386635113,
+        "std_depth": 13002.117682304875
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/793134.png",
+        "mean_depth": 26186.05049107143,
+        "std_depth": 20444.324817291494
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/793904.png",
+        "mean_depth": 36235.95495608736,
+        "std_depth": 14672.21391941391
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/795726.png",
+        "mean_depth": 29697.383015873016,
+        "std_depth": 21210.319558517225
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/800305.png",
+        "mean_depth": 15926.743241792929,
+        "std_depth": 16154.88618568366
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/802121.png",
+        "mean_depth": 25737.59373015873,
+        "std_depth": 22245.093281043926
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/80598.png",
+        "mean_depth": 33703.67394798565,
+        "std_depth": 15611.70407089893
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/815990.png",
+        "mean_depth": 32434.95085589172,
+        "std_depth": 16347.073661024446
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/816537.png",
+        "mean_depth": 27851.769285402097,
+        "std_depth": 22825.812462216694
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/817933.png",
+        "mean_depth": 33185.377428389926,
+        "std_depth": 13870.169919314363
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/81906.png",
+        "mean_depth": 24960.82069306206,
+        "std_depth": 18929.414974934956
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/820679.png",
+        "mean_depth": 9962.702647706597,
+        "std_depth": 16402.754547671473
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/820923.png",
+        "mean_depth": 18309.962650462963,
+        "std_depth": 16511.928006175487
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/824234.png",
+        "mean_depth": 25194.26956983025,
+        "std_depth": 18797.7057775855
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/829803.png",
+        "mean_depth": 14561.698128676471,
+        "std_depth": 18029.24428168256
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/830404.png",
+        "mean_depth": 20599.591870540266,
+        "std_depth": 16145.399123503497
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/830583.png",
+        "mean_depth": 29759.275555555556,
+        "std_depth": 27172.023224988632
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/83776.png",
+        "mean_depth": 41042.195421991164,
+        "std_depth": 15111.933938377771
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/843468.png",
+        "mean_depth": 19631.96904315197,
+        "std_depth": 20451.394756940543
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/852492.png",
+        "mean_depth": 24015.177912,
+        "std_depth": 17195.021395133903
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/852614.png",
+        "mean_depth": 20368.36362003058,
+        "std_depth": 19055.486921025735
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/8577.png",
+        "mean_depth": 15658.654840494792,
+        "std_depth": 14739.604412127599
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/86130.png",
+        "mean_depth": 23170.932133908686,
+        "std_depth": 22173.582463446775
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/862192.png",
+        "mean_depth": 30463.512817558523,
+        "std_depth": 19515.693226908676
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/865047.png",
+        "mean_depth": 35151.505691930615,
+        "std_depth": 16990.28586535671
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/867395.png",
+        "mean_depth": 23251.42462890625,
+        "std_depth": 19993.29723406098
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/875370.png",
+        "mean_depth": 21839.410155809153,
+        "std_depth": 21680.684240866267
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/880228.png",
+        "mean_depth": 25760.01791464891,
+        "std_depth": 21684.460918146302
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/883453.png",
+        "mean_depth": 27601.953890264027,
+        "std_depth": 25018.720244502023
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/885566.png",
+        "mean_depth": 19500.161579166666,
+        "std_depth": 20764.76056645771
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/886084.png",
+        "mean_depth": 40050.23025003214,
+        "std_depth": 22932.107336966885
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/89476.png",
+        "mean_depth": 24493.594277422388,
+        "std_depth": 18699.36703842358
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/902302.png",
+        "mean_depth": 50303.82497715504,
+        "std_depth": 7489.782080525396
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/904583.png",
+        "mean_depth": 40948.135070356475,
+        "std_depth": 16581.157748596826
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/909647.png",
+        "mean_depth": 29232.688138671874,
+        "std_depth": 20243.432354865658
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/911086.png",
+        "mean_depth": 30130.81384130435,
+        "std_depth": 19056.932373166084
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/920450.png",
+        "mean_depth": 18967.26806260946,
+        "std_depth": 16792.348151251455
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/920887.png",
+        "mean_depth": 17571.638837462164,
+        "std_depth": 16055.872359909232
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/923050.png",
+        "mean_depth": 18697.767002518893,
+        "std_depth": 21333.985372497962
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/92396.png",
+        "mean_depth": 50776.24250976562,
+        "std_depth": 15113.541359169263
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/934647.png",
+        "mean_depth": 40766.525938631596,
+        "std_depth": 15566.727604419902
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/936232.png",
+        "mean_depth": 36180.471504166664,
+        "std_depth": 18269.34507836717
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/937889.png",
+        "mean_depth": 14592.428635775863,
+        "std_depth": 9689.04264862003
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/946448.png",
+        "mean_depth": 30971.632781954886,
+        "std_depth": 25519.04123058421
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/9482.png",
+        "mean_depth": 32873.85157132769,
+        "std_depth": 17884.7419392375
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/949475.png",
+        "mean_depth": 16467.163729346972,
+        "std_depth": 11720.4760023562
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/950941.png",
+        "mean_depth": 15765.516337800369,
+        "std_depth": 14452.624071644124
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/952008.png",
+        "mean_depth": 29148.689057223266,
+        "std_depth": 22603.01623304089
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/9538.png",
+        "mean_depth": 35783.27708575076,
+        "std_depth": 10727.686428896415
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/ava/958117.png",
+        "mean_depth": 13471.578298828124,
+        "std_depth": 16650.90364613598
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/10173544123.png",
+        "mean_depth": 15533.520554614397,
+        "std_depth": 17645.034250424924
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/10246311914.png",
+        "mean_depth": 14381.215463693094,
+        "std_depth": 17740.594788688202
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/10680932454.png",
+        "mean_depth": 10697.456481481482,
+        "std_depth": 12905.90518447318
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/10911046243.png",
+        "mean_depth": 31962.41778220916,
+        "std_depth": 20583.58717769138
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/1100873520.png",
+        "mean_depth": 28131.1294111525,
+        "std_depth": 21438.07933143788
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/11079282234.png",
+        "mean_depth": 16419.925761376187,
+        "std_depth": 18176.101546949994
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/11139580153.png",
+        "mean_depth": 30173.48085345644,
+        "std_depth": 22615.45896744046
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/11232665444.png",
+        "mean_depth": 20490.728347020628,
+        "std_depth": 17380.556192143653
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/11270280904.png",
+        "mean_depth": 24044.887753934847,
+        "std_depth": 16869.478561273365
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/11341117543.png",
+        "mean_depth": 18992.61067083949,
+        "std_depth": 12614.930185440386
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/11546100824.png",
+        "mean_depth": 20290.169097361668,
+        "std_depth": 19665.175938079534
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/1289162225.png",
+        "mean_depth": 31192.267301087883,
+        "std_depth": 21645.68931487669
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/145517507.png",
+        "mean_depth": 28800.210399576823,
+        "std_depth": 19248.35147149948
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/16057476.png",
+        "mean_depth": 33246.185082117714,
+        "std_depth": 17547.764522450558
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2125600207.png",
+        "mean_depth": 18707.451423733393,
+        "std_depth": 17229.341513931682
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2174764653.png",
+        "mean_depth": 31786.916047007813,
+        "std_depth": 21051.71609424109
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2178785463.png",
+        "mean_depth": 31068.58828654132,
+        "std_depth": 18439.423152500196
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2202105982.png",
+        "mean_depth": 23610.310766573304,
+        "std_depth": 17077.575862593225
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2286627596.png",
+        "mean_depth": 26639.667092358624,
+        "std_depth": 17081.38263808992
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2303343292.png",
+        "mean_depth": 30240.716486666668,
+        "std_depth": 20062.261708718648
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2344211137.png",
+        "mean_depth": 25198.882310153036,
+        "std_depth": 14035.645871216724
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2416231204.png",
+        "mean_depth": 29152.667648870727,
+        "std_depth": 17879.61641906209
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2475938786.png",
+        "mean_depth": 27525.020847,
+        "std_depth": 20497.643408355118
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2649625286.png",
+        "mean_depth": 7593.610520279255,
+        "std_depth": 5885.4566940980385
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/269509962.png",
+        "mean_depth": 29514.017343055555,
+        "std_depth": 16215.515043047952
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2713735764.png",
+        "mean_depth": 14244.531978996598,
+        "std_depth": 11772.385001990137
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2748301393.png",
+        "mean_depth": 22372.619158109028,
+        "std_depth": 15963.58610334289
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2786566950.png",
+        "mean_depth": 46679.3350575765,
+        "std_depth": 13038.225400992394
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2832980159.png",
+        "mean_depth": 30514.035472891937,
+        "std_depth": 20797.708456285458
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2848415190.png",
+        "mean_depth": 29471.85907578125,
+        "std_depth": 16051.615381018857
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2939787669.png",
+        "mean_depth": 40655.03393974589,
+        "std_depth": 18263.400212345583
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/2998270477.png",
+        "mean_depth": 11660.618616255144,
+        "std_depth": 11941.562157808903
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3099787122.png",
+        "mean_depth": 25314.87681171848,
+        "std_depth": 15497.63996519164
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3107928091.png",
+        "mean_depth": 29262.635309864105,
+        "std_depth": 17673.65997762684
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3114317948.png",
+        "mean_depth": 23756.841058550825,
+        "std_depth": 20098.953363351113
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3174536924.png",
+        "mean_depth": 23353.211834186586,
+        "std_depth": 18554.759892257534
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3194756721.png",
+        "mean_depth": 25200.39689612918,
+        "std_depth": 13403.571441897971
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3277047132.png",
+        "mean_depth": 31134.345215292127,
+        "std_depth": 17945.20535153164
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3292481650.png",
+        "mean_depth": 27171.644512594943,
+        "std_depth": 19484.833531078963
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/331340631.png",
+        "mean_depth": 16753.711973279183,
+        "std_depth": 17449.52149102675
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3368873733.png",
+        "mean_depth": 32593.431409451303,
+        "std_depth": 21445.786478357924
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3383452055.png",
+        "mean_depth": 36153.10852980123,
+        "std_depth": 18526.212864311805
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3450753884.png",
+        "mean_depth": 33538.54126399526,
+        "std_depth": 17972.63227887406
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3465087333.png",
+        "mean_depth": 36303.64237202601,
+        "std_depth": 11633.433001599118
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/364777572.png",
+        "mean_depth": 27903.713103841146,
+        "std_depth": 17004.537298513213
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3698386210.png",
+        "mean_depth": 28396.535621298342,
+        "std_depth": 17740.56914666623
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3707755654.png",
+        "mean_depth": 24677.42750987887,
+        "std_depth": 17531.731802559076
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3711573590.png",
+        "mean_depth": 36728.7728652751,
+        "std_depth": 16136.040585310573
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3722409963.png",
+        "mean_depth": 22607.90959319323,
+        "std_depth": 16509.01752310687
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3726632967.png",
+        "mean_depth": 24122.28979454488,
+        "std_depth": 19763.01931535694
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3826205454.png",
+        "mean_depth": 46788.422539057494,
+        "std_depth": 17957.446122755773
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3828155719.png",
+        "mean_depth": 26876.23024379575,
+        "std_depth": 16016.782073604905
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/392179845.png",
+        "mean_depth": 10321.600797526042,
+        "std_depth": 15859.327085647787
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/3943080167.png",
+        "mean_depth": 46694.9943053948,
+        "std_depth": 16642.122493767132
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4034220859.png",
+        "mean_depth": 25948.117865243697,
+        "std_depth": 19121.09894520759
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4042245241.png",
+        "mean_depth": 25100.53222620081,
+        "std_depth": 18525.859626481666
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4045599734.png",
+        "mean_depth": 25096.429844399237,
+        "std_depth": 15629.96942448904
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/409597917.png",
+        "mean_depth": 20398.137276263296,
+        "std_depth": 12997.968914703039
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4113685341.png",
+        "mean_depth": 26411.949687686672,
+        "std_depth": 18663.083151221595
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4127387822.png",
+        "mean_depth": 17881.75136236642,
+        "std_depth": 21422.126052722324
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4138608778.png",
+        "mean_depth": 21448.42163270054,
+        "std_depth": 12906.209165180182
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4142940823.png",
+        "mean_depth": 27923.395980399786,
+        "std_depth": 16259.667398953425
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4174114328.png",
+        "mean_depth": 33791.08167918689,
+        "std_depth": 17815.382605171522
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4239526963.png",
+        "mean_depth": 37840.67688003425,
+        "std_depth": 22426.86929558392
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4389975585.png",
+        "mean_depth": 21707.515546970313,
+        "std_depth": 16923.884303822993
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/439745674.png",
+        "mean_depth": 23954.945882480533,
+        "std_depth": 15749.666383336538
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4405802084.png",
+        "mean_depth": 23861.339208493588,
+        "std_depth": 23029.17704298401
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4540896523.png",
+        "mean_depth": 23843.331453571613,
+        "std_depth": 12993.90846469836
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4551121129.png",
+        "mean_depth": 14997.393661998776,
+        "std_depth": 17954.10024552901
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4603364479.png",
+        "mean_depth": 28422.42899252883,
+        "std_depth": 13729.524103909926
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4605755313.png",
+        "mean_depth": 32258.3839958057,
+        "std_depth": 19269.84538710754
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4610304834.png",
+        "mean_depth": 31620.255577798285,
+        "std_depth": 20104.48945904254
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4626592042.png",
+        "mean_depth": 27503.403371840475,
+        "std_depth": 19336.115155836793
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4626914740.png",
+        "mean_depth": 30354.196398603723,
+        "std_depth": 19895.236226984798
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4639050491.png",
+        "mean_depth": 40792.55247382438,
+        "std_depth": 24077.500888291997
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4805501528.png",
+        "mean_depth": 44494.12437453704,
+        "std_depth": 11561.234612953163
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4806591146.png",
+        "mean_depth": 35664.34118798815,
+        "std_depth": 21429.313074898706
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4819847439.png",
+        "mean_depth": 23773.350134941556,
+        "std_depth": 14495.103053163126
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4883647933.png",
+        "mean_depth": 36495.00557681192,
+        "std_depth": 20584.86168042516
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4947500856.png",
+        "mean_depth": 15807.328648375851,
+        "std_depth": 14986.005196257389
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/4954115704.png",
+        "mean_depth": 26114.10120615624,
+        "std_depth": 17003.672857702528
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5007844069.png",
+        "mean_depth": 22589.168648136812,
+        "std_depth": 18663.968946033747
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5034975248.png",
+        "mean_depth": 24036.981082951286,
+        "std_depth": 17696.80301952164
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5064264405.png",
+        "mean_depth": 25538.400502556226,
+        "std_depth": 12198.550476870487
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/526555735.png",
+        "mean_depth": 20239.606231928326,
+        "std_depth": 18054.375108292952
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5409637634.png",
+        "mean_depth": 31514.887001557945,
+        "std_depth": 23147.032717420763
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5435410945.png",
+        "mean_depth": 45200.95137218891,
+        "std_depth": 13770.699097453089
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5456373866.png",
+        "mean_depth": 31391.64900271098,
+        "std_depth": 14512.550174921993
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5464134286.png",
+        "mean_depth": 27852.00641705237,
+        "std_depth": 19463.587700173655
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5468530650.png",
+        "mean_depth": 31805.77660017893,
+        "std_depth": 20944.483517218283
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5468605223.png",
+        "mean_depth": 14193.04164795541,
+        "std_depth": 13025.25009319333
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5536240490.png",
+        "mean_depth": 22629.073106080217,
+        "std_depth": 19854.35064318951
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5561556380.png",
+        "mean_depth": 28166.77601376773,
+        "std_depth": 16800.515660047455
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5612537234.png",
+        "mean_depth": 24327.291090969527,
+        "std_depth": 16862.673962283843
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5629171325.png",
+        "mean_depth": 5492.319650271299,
+        "std_depth": 13058.263949312688
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5631740117.png",
+        "mean_depth": 15115.45066355711,
+        "std_depth": 15776.534559940543
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/563363297.png",
+        "mean_depth": 30342.104584960936,
+        "std_depth": 17500.233238441648
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5646738672.png",
+        "mean_depth": 25709.157950798653,
+        "std_depth": 15565.192591676047
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5649238461.png",
+        "mean_depth": 30522.570807294953,
+        "std_depth": 22897.368620360186
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5664036497.png",
+        "mean_depth": 36180.14278263603,
+        "std_depth": 19182.875373916995
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5684508410.png",
+        "mean_depth": 28283.92828208368,
+        "std_depth": 18035.727703602726
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5715854575.png",
+        "mean_depth": 25162.769091452592,
+        "std_depth": 17039.16247130158
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5807318968.png",
+        "mean_depth": 36409.456140751645,
+        "std_depth": 19643.95130281496
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5848411050.png",
+        "mean_depth": 37666.14761489134,
+        "std_depth": 17447.118295941833
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/5903878980.png",
+        "mean_depth": 41237.99739763678,
+        "std_depth": 19235.243479704426
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6000347443.png",
+        "mean_depth": 36487.99538223829,
+        "std_depth": 17627.413614818663
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6072006649.png",
+        "mean_depth": 30307.533774097265,
+        "std_depth": 19653.18809125898
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6092502687.png",
+        "mean_depth": 11570.886244597259,
+        "std_depth": 13901.017034356952
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/610496828.png",
+        "mean_depth": 16418.36970747637,
+        "std_depth": 18397.78940848777
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6158806771.png",
+        "mean_depth": 14004.339186591866,
+        "std_depth": 12714.02612418996
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6176401677.png",
+        "mean_depth": 29675.461001685268,
+        "std_depth": 13813.43235247848
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6201268474.png",
+        "mean_depth": 45830.044086260255,
+        "std_depth": 13513.814703878526
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6211562802.png",
+        "mean_depth": 47093.4180134644,
+        "std_depth": 14036.564019782438
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6326442580.png",
+        "mean_depth": 21547.84781554544,
+        "std_depth": 21268.618020289538
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6419047435.png",
+        "mean_depth": 16811.663168215422,
+        "std_depth": 19444.333744276577
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6449745557.png",
+        "mean_depth": 7236.665405585468,
+        "std_depth": 8584.534900479197
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6452060589.png",
+        "mean_depth": 36912.128289641136,
+        "std_depth": 23020.84359202628
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6486604889.png",
+        "mean_depth": 23844.91748586706,
+        "std_depth": 23389.438521475728
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6594506719.png",
+        "mean_depth": 30551.722198341628,
+        "std_depth": 16566.430614500645
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6603102821.png",
+        "mean_depth": 15240.99218127718,
+        "std_depth": 15299.970734293443
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6739930655.png",
+        "mean_depth": 23121.60316429765,
+        "std_depth": 15066.418987722413
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6778568929.png",
+        "mean_depth": 32869.6538235739,
+        "std_depth": 17301.57659217262
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6820819077.png",
+        "mean_depth": 12188.51185399233,
+        "std_depth": 11578.599333417207
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6845847924.png",
+        "mean_depth": 36916.11200677494,
+        "std_depth": 22207.523601384917
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6940429128.png",
+        "mean_depth": 30560.704322620106,
+        "std_depth": 18354.633048124248
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6992326754.png",
+        "mean_depth": 25341.268169561663,
+        "std_depth": 17258.068470683607
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6993179262.png",
+        "mean_depth": 22453.13190918293,
+        "std_depth": 20255.94869135499
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/6996280620.png",
+        "mean_depth": 12284.49893846163,
+        "std_depth": 6987.859093569283
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7006191446.png",
+        "mean_depth": 37822.05805145868,
+        "std_depth": 19010.10315293288
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/701112732.png",
+        "mean_depth": 18921.81261253357,
+        "std_depth": 12509.875487569328
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7056790837.png",
+        "mean_depth": 30576.07380883569,
+        "std_depth": 20375.476416218768
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7141864663.png",
+        "mean_depth": 19844.944908278143,
+        "std_depth": 16930.514866038866
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7152554103.png",
+        "mean_depth": 27941.983961398022,
+        "std_depth": 20192.096126309294
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7238585598.png",
+        "mean_depth": 30488.10744004153,
+        "std_depth": 18921.53833783967
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7272392080.png",
+        "mean_depth": 11375.030207906852,
+        "std_depth": 9739.903190397423
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7276446104.png",
+        "mean_depth": 25527.06243066777,
+        "std_depth": 17434.114533200252
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7318578602.png",
+        "mean_depth": 24474.75626380815,
+        "std_depth": 16653.565505012186
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7365681654.png",
+        "mean_depth": 10665.071442780762,
+        "std_depth": 12042.013106243994
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7408729508.png",
+        "mean_depth": 21427.364802023527,
+        "std_depth": 11448.078407620758
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7425462410.png",
+        "mean_depth": 37948.793969924525,
+        "std_depth": 18557.44673985975
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7470410498.png",
+        "mean_depth": 4905.691370646159,
+        "std_depth": 10347.80922837253
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7543713322.png",
+        "mean_depth": 23300.868111775795,
+        "std_depth": 16888.911884966743
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7574036406.png",
+        "mean_depth": 19412.46890569748,
+        "std_depth": 18321.388992873755
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7597470314.png",
+        "mean_depth": 31228.475269698964,
+        "std_depth": 14886.684556191565
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7627158600.png",
+        "mean_depth": 16897.38268288971,
+        "std_depth": 15802.035557953472
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7762883720.png",
+        "mean_depth": 36402.58669199357,
+        "std_depth": 20191.195042239422
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7854876374.png",
+        "mean_depth": 32833.954026673055,
+        "std_depth": 13850.972792519893
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7903635044.png",
+        "mean_depth": 23257.78372177554,
+        "std_depth": 20181.56429168491
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7934781744.png",
+        "mean_depth": 33364.92721276587,
+        "std_depth": 10180.435444446799
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7955776040.png",
+        "mean_depth": 35174.505246942615,
+        "std_depth": 17053.895112618582
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7969243650.png",
+        "mean_depth": 40566.79615816488,
+        "std_depth": 18999.68394272468
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/7985643395.png",
+        "mean_depth": 34064.7063215712,
+        "std_depth": 18762.03388647606
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8021456503.png",
+        "mean_depth": 22391.11515315889,
+        "std_depth": 13757.902803481975
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8021464988.png",
+        "mean_depth": 22328.637929774475,
+        "std_depth": 13935.206391753516
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8072726562.png",
+        "mean_depth": 37886.58063388112,
+        "std_depth": 20199.797152731408
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8077318332.png",
+        "mean_depth": 35374.0362423977,
+        "std_depth": 18324.291380269868
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8083559682.png",
+        "mean_depth": 34085.07324576144,
+        "std_depth": 19193.031056993434
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8142580716.png",
+        "mean_depth": 23289.551075067873,
+        "std_depth": 21808.88963168969
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8145791705.png",
+        "mean_depth": 29581.006904311613,
+        "std_depth": 17405.108318574967
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8157117322.png",
+        "mean_depth": 31126.639678970307,
+        "std_depth": 18964.093437221512
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8164688693.png",
+        "mean_depth": 18130.832193671475,
+        "std_depth": 13900.001647737343
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8258234240.png",
+        "mean_depth": 29451.326824333883,
+        "std_depth": 24512.896149930868
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8305669061.png",
+        "mean_depth": 29358.390877507376,
+        "std_depth": 16963.258476402043
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8377051997.png",
+        "mean_depth": 51797.185669446066,
+        "std_depth": 7560.61018215022
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8385411442.png",
+        "mean_depth": 12459.28078931966,
+        "std_depth": 8362.17845444676
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8398239689.png",
+        "mean_depth": 18631.86580096815,
+        "std_depth": 13438.15578474683
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8436817796.png",
+        "mean_depth": 52991.30441068553,
+        "std_depth": 12769.087420194866
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8457028188.png",
+        "mean_depth": 13970.50143175583,
+        "std_depth": 13299.406468421585
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8507554609.png",
+        "mean_depth": 32862.08491148772,
+        "std_depth": 25007.07815532058
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8528934790.png",
+        "mean_depth": 8291.96352304651,
+        "std_depth": 9869.058862224607
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8539498079.png",
+        "mean_depth": 31649.582199453747,
+        "std_depth": 9854.50446391846
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8567636458.png",
+        "mean_depth": 40698.21846831715,
+        "std_depth": 22184.78644498744
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8568761304.png",
+        "mean_depth": 19464.404684308924,
+        "std_depth": 19539.730871042444
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8617517082.png",
+        "mean_depth": 32019.300302369727,
+        "std_depth": 18311.860750491545
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8627391076.png",
+        "mean_depth": 19004.163316951584,
+        "std_depth": 20915.836429913157
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8637618858.png",
+        "mean_depth": 39770.68134493245,
+        "std_depth": 13446.315350458097
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8646019769.png",
+        "mean_depth": 21077.59334258622,
+        "std_depth": 19888.930613971093
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8667761330.png",
+        "mean_depth": 30873.666805503253,
+        "std_depth": 19507.577228664693
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8684784453.png",
+        "mean_depth": 19998.237933342043,
+        "std_depth": 18174.567431763167
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8730533258.png",
+        "mean_depth": 26790.169621625635,
+        "std_depth": 19570.652100150935
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8929337311.png",
+        "mean_depth": 27253.454562748302,
+        "std_depth": 13443.103151113266
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8965909066.png",
+        "mean_depth": 39073.7586665789,
+        "std_depth": 14552.521196303605
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/8972898508.png",
+        "mean_depth": 31965.42538213978,
+        "std_depth": 12996.213517920669
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/9047016405.png",
+        "mean_depth": 24595.48106614314,
+        "std_depth": 17225.84032729413
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/9055579014.png",
+        "mean_depth": 28273.48964176084,
+        "std_depth": 17658.522039174524
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/9222727460.png",
+        "mean_depth": 29771.887629166667,
+        "std_depth": 21839.5189017167
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/9251039345.png",
+        "mean_depth": 23099.083633200346,
+        "std_depth": 15332.59876258755
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/9297933012.png",
+        "mean_depth": 10338.902122626301,
+        "std_depth": 10459.816278603883
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/9346160455.png",
+        "mean_depth": 28774.288101784314,
+        "std_depth": 20051.041585843206
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/9510794857.png",
+        "mean_depth": 22702.4778495,
+        "std_depth": 17533.155946426912
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/9625138420.png",
+        "mean_depth": 15300.13419893615,
+        "std_depth": 15830.606656676908
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/9650165015.png",
+        "mean_depth": 26332.782538101128,
+        "std_depth": 19760.917368838942
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/9654462771.png",
+        "mean_depth": 32659.87641405772,
+        "std_depth": 22645.796327250086
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/9668766101.png",
+        "mean_depth": 14094.949614401425,
+        "std_depth": 13019.543917143506
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/9768426856.png",
+        "mean_depth": 21059.708381481483,
+        "std_depth": 15315.243616930486
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/9898091624.png",
+        "mean_depth": 12553.174445007073,
+        "std_depth": 12431.975787830139
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/koniq10k/992920521.png",
+        "mean_depth": 35326.39491458812,
+        "std_depth": 20000.221746771567
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/01_IMG_9678.png",
+        "mean_depth": 12424.679887218397,
+        "std_depth": 15933.153891318474
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/01_IMG_9832.png",
+        "mean_depth": 19935.439601687598,
+        "std_depth": 20598.015075598876
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/01_IMG_9943.png",
+        "mean_depth": 28451.028042323742,
+        "std_depth": 17779.263095543323
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/01_IMG_9988.png",
+        "mean_depth": 17946.22907903154,
+        "std_depth": 19115.819100750494
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/01_IMG_9996.png",
+        "mean_depth": 16667.351795932584,
+        "std_depth": 17819.96766758152
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/02_IMG_0047.png",
+        "mean_depth": 15733.543107759708,
+        "std_depth": 17188.019763704324
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/02_IMG_0278.png",
+        "mean_depth": 25006.67108192424,
+        "std_depth": 16233.177392020221
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/blume.png",
+        "mean_depth": 16589.912438244814,
+        "std_depth": 18951.79117892255
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_0651.png",
+        "mean_depth": 13712.293140119698,
+        "std_depth": 11028.224245265817
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_1665.png",
+        "mean_depth": 10232.704996463477,
+        "std_depth": 12123.407645591966
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG-20151029-WA0005.png",
+        "mean_depth": 35611.21469657919,
+        "std_depth": 17050.679654564174
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG-20170508-WA0004.png",
+        "mean_depth": 18197.572273410024,
+        "std_depth": 17842.603292284377
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG-20170508-WA0005.png",
+        "mean_depth": 24050.300092504396,
+        "std_depth": 19158.13160478994
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20170907_182814017.png",
+        "mean_depth": 37562.30595935879,
+        "std_depth": 16309.083353804914
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20180118_122557411.png",
+        "mean_depth": 16175.87629662031,
+        "std_depth": 17688.347702804494
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20180201_171046026.png",
+        "mean_depth": 12088.970191421822,
+        "std_depth": 15721.593446998986
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20180224_212247556.png",
+        "mean_depth": 16049.35722903656,
+        "std_depth": 10403.735733214175
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20180225_180057451.png",
+        "mean_depth": 25008.74275665911,
+        "std_depth": 17158.553371115886
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20190505_194506274_HDR-EFFECTS.png",
+        "mean_depth": 17608.390938652887,
+        "std_depth": 13550.050750761942
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20190513_210752882.png",
+        "mean_depth": 16504.887059780795,
+        "std_depth": 10938.766208243029
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20190517_142525721-EFFECTS.png",
+        "mean_depth": 22022.6256961901,
+        "std_depth": 16827.856187757217
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20190531_214259013.png",
+        "mean_depth": 26022.149257644214,
+        "std_depth": 23193.638392241573
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20190604_212833103.png",
+        "mean_depth": 43939.22286340533,
+        "std_depth": 18487.78999644206
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20190831_145604539.png",
+        "mean_depth": 20409.562097682876,
+        "std_depth": 20434.827571817208
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20190901_161832305.png",
+        "mean_depth": 24326.23309677815,
+        "std_depth": 19964.811356448394
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20191031_173218684.png",
+        "mean_depth": 18188.438089943716,
+        "std_depth": 15331.369541347864
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20191101_115229045.png",
+        "mean_depth": 18714.282865861805,
+        "std_depth": 13664.825224361703
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20191130_131452287_HDR.png",
+        "mean_depth": 20134.50545473452,
+        "std_depth": 14864.662777627864
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20191130_144510482.png",
+        "mean_depth": 29935.322832460755,
+        "std_depth": 19741.557620388336
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20191210_094007177.png",
+        "mean_depth": 32281.6147598455,
+        "std_depth": 15977.154955346541
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20200209_162238018.png",
+        "mean_depth": 38012.415477297436,
+        "std_depth": 21413.78692966147
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20200816_124118257_HDR.png",
+        "mean_depth": 21153.969021392946,
+        "std_depth": 18814.410367739132
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20200819_124547156_BURST000_COVER_TOP.png",
+        "mean_depth": 19272.436439482764,
+        "std_depth": 13416.741523841827
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20200906_194627870.png",
+        "mean_depth": 27257.032671139565,
+        "std_depth": 14878.287664173033
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20200928_164235267_HDR.png",
+        "mean_depth": 22887.978707647126,
+        "std_depth": 20069.197021263702
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_20201127_182815.png",
+        "mean_depth": 27892.674403166668,
+        "std_depth": 19823.47137741141
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_3049_0.png",
+        "mean_depth": 20079.549281401996,
+        "std_depth": 16523.41753317787
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_3867_4.png",
+        "mean_depth": 21490.054535567564,
+        "std_depth": 15187.697540708588
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_3995.png",
+        "mean_depth": 20825.310596049185,
+        "std_depth": 19036.41386940678
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_4110.png",
+        "mean_depth": 6494.519094487222,
+        "std_depth": 11111.47824161043
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_4140.png",
+        "mean_depth": 8765.552048224861,
+        "std_depth": 10306.362418724993
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_4248.png",
+        "mean_depth": 12232.57610682111,
+        "std_depth": 9006.067394784335
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_4291.png",
+        "mean_depth": 13790.592143996753,
+        "std_depth": 14291.395195880716
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_4436.png",
+        "mean_depth": 17412.317182599327,
+        "std_depth": 19956.34260589504
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_4480.png",
+        "mean_depth": 15883.853184243451,
+        "std_depth": 18907.528653247384
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_4537.png",
+        "mean_depth": 23224.948325690955,
+        "std_depth": 13796.334702134021
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_4558.png",
+        "mean_depth": 39044.88498540205,
+        "std_depth": 20658.942631414793
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_4884.png",
+        "mean_depth": 21645.391392305013,
+        "std_depth": 11862.449546169004
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_4889.png",
+        "mean_depth": 27135.27206135329,
+        "std_depth": 13371.661447094422
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_4922_.png",
+        "mean_depth": 20777.92879949039,
+        "std_depth": 17333.780394578873
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5003.png",
+        "mean_depth": 29098.050241840123,
+        "std_depth": 18973.751738782317
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5010.png",
+        "mean_depth": 31290.2551105336,
+        "std_depth": 23490.078128496698
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5045.png",
+        "mean_depth": 18138.200408392462,
+        "std_depth": 13724.84286228584
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5050.png",
+        "mean_depth": 26558.442663036512,
+        "std_depth": 15962.712721158203
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5099.png",
+        "mean_depth": 15885.083680184493,
+        "std_depth": 11045.25867313789
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5127.png",
+        "mean_depth": 29356.42428887748,
+        "std_depth": 13273.174108416304
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5128.png",
+        "mean_depth": 22026.09948724266,
+        "std_depth": 13422.464209215812
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5150.png",
+        "mean_depth": 8984.979635654645,
+        "std_depth": 10975.772203617895
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5170.png",
+        "mean_depth": 28482.1394349164,
+        "std_depth": 14088.814894320949
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5188.png",
+        "mean_depth": 27155.63594016247,
+        "std_depth": 15721.61142552793
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5283.png",
+        "mean_depth": 40561.2716849769,
+        "std_depth": 15800.69414038264
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5334.png",
+        "mean_depth": 22232.01541110945,
+        "std_depth": 22447.9832835105
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5359.png",
+        "mean_depth": 16961.083146729266,
+        "std_depth": 14250.985152091038
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5391.png",
+        "mean_depth": 20224.003794779506,
+        "std_depth": 15529.986811673798
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5424.png",
+        "mean_depth": 21454.287449184812,
+        "std_depth": 15659.587603243199
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5452.png",
+        "mean_depth": 30698.944831812467,
+        "std_depth": 18043.431360938248
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5484.png",
+        "mean_depth": 16892.135757320706,
+        "std_depth": 17975.46961430714
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5541.png",
+        "mean_depth": 15863.489200705104,
+        "std_depth": 18822.681230773334
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5549.png",
+        "mean_depth": 21643.079657540628,
+        "std_depth": 18452.829793012843
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5557.png",
+        "mean_depth": 30600.334000438972,
+        "std_depth": 21814.41325632872
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5567.png",
+        "mean_depth": 10599.586927626802,
+        "std_depth": 15159.556744851225
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5571.png",
+        "mean_depth": 34326.91054260357,
+        "std_depth": 16817.066165822846
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5572.png",
+        "mean_depth": 36700.77761782945,
+        "std_depth": 13743.498644223147
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5656.png",
+        "mean_depth": 16092.159651812754,
+        "std_depth": 8423.250410910783
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5792.png",
+        "mean_depth": 22876.897558024433,
+        "std_depth": 19375.542654377092
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5936.png",
+        "mean_depth": 30643.897558834877,
+        "std_depth": 15048.645014522204
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5971.png",
+        "mean_depth": 20883.83956561723,
+        "std_depth": 14581.319566505064
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5971_.png",
+        "mean_depth": 22267.84177379859,
+        "std_depth": 13861.99495803281
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5982.png",
+        "mean_depth": 26114.933831983024,
+        "std_depth": 18177.350988640876
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5983.png",
+        "mean_depth": 17548.32172409497,
+        "std_depth": 16642.262922909158
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_5984.png",
+        "mean_depth": 24361.099797252766,
+        "std_depth": 21738.76969768058
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6010.png",
+        "mean_depth": 20109.978810223587,
+        "std_depth": 19192.49928170509
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6177_golden_2.png",
+        "mean_depth": 8652.911017830862,
+        "std_depth": 9635.600744176934
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6215_california.png",
+        "mean_depth": 15270.898786686957,
+        "std_depth": 13549.299235549435
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6222.png",
+        "mean_depth": 24149.8514096137,
+        "std_depth": 18092.405309078786
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6255_.png",
+        "mean_depth": 26338.378510679675,
+        "std_depth": 12509.98359535327
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6258_.png",
+        "mean_depth": 14763.395664209855,
+        "std_depth": 12737.215969119356
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6314.png",
+        "mean_depth": 24702.032959854227,
+        "std_depth": 16100.853270336622
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6426.png",
+        "mean_depth": 45280.699100298465,
+        "std_depth": 18744.972850143982
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6454.png",
+        "mean_depth": 34473.334611433114,
+        "std_depth": 21757.93164609796
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6457.png",
+        "mean_depth": 8429.127709969442,
+        "std_depth": 5849.764053545331
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6790.png",
+        "mean_depth": 22067.32417219392,
+        "std_depth": 11810.382322025944
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6819.png",
+        "mean_depth": 10937.477543604697,
+        "std_depth": 14976.820101057509
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6837.png",
+        "mean_depth": 26513.063388438073,
+        "std_depth": 22629.14061013885
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6838.png",
+        "mean_depth": 18620.40042508834,
+        "std_depth": 18371.917452393864
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6909.png",
+        "mean_depth": 18283.492066455852,
+        "std_depth": 9487.424487858681
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6945.png",
+        "mean_depth": 33289.735877693616,
+        "std_depth": 17334.32229711641
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6970.png",
+        "mean_depth": 20822.207701114996,
+        "std_depth": 13886.33427322809
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_6976.png",
+        "mean_depth": 14073.944103071773,
+        "std_depth": 12011.502038614633
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7057.png",
+        "mean_depth": 26080.42654694825,
+        "std_depth": 18385.079508946175
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7141.png",
+        "mean_depth": 5082.442917142222,
+        "std_depth": 9444.943155434494
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7187.png",
+        "mean_depth": 12968.061738665267,
+        "std_depth": 13603.326359758408
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7392_.png",
+        "mean_depth": 24816.70342808267,
+        "std_depth": 20842.225561331994
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7450.png",
+        "mean_depth": 18904.940826489794,
+        "std_depth": 15657.89523944108
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7455.png",
+        "mean_depth": 18515.547393473098,
+        "std_depth": 17848.689174010116
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7579.png",
+        "mean_depth": 14923.055033995186,
+        "std_depth": 11290.837420035454
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7595.png",
+        "mean_depth": 34951.76171709927,
+        "std_depth": 14848.773021684661
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7640.png",
+        "mean_depth": 17554.42671515767,
+        "std_depth": 16121.71766155541
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7663.png",
+        "mean_depth": 7170.534604179473,
+        "std_depth": 12333.588299270921
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7753.png",
+        "mean_depth": 25014.13239962661,
+        "std_depth": 19293.367995810553
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7758.png",
+        "mean_depth": 20390.75647754085,
+        "std_depth": 15973.620334517831
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7817.png",
+        "mean_depth": 26590.072693289716,
+        "std_depth": 11866.75739269723
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7893.png",
+        "mean_depth": 24582.27264753149,
+        "std_depth": 17741.792200412587
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_7955.png",
+        "mean_depth": 21955.935872786547,
+        "std_depth": 20262.115267492674
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_8098.png",
+        "mean_depth": 25284.842202930595,
+        "std_depth": 17866.216188042672
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_8736.png",
+        "mean_depth": 13463.664187526614,
+        "std_depth": 15761.8180028463
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_8740.png",
+        "mean_depth": 26204.207842873642,
+        "std_depth": 20053.09102629292
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_8774.png",
+        "mean_depth": 33660.59620178127,
+        "std_depth": 20474.022691568272
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_8868.png",
+        "mean_depth": 31751.550194564563,
+        "std_depth": 12981.480228285624
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_8886.png",
+        "mean_depth": 22940.873147176942,
+        "std_depth": 18594.44904352461
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_8890.png",
+        "mean_depth": 11761.447433967049,
+        "std_depth": 10432.351379995118
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_8917.png",
+        "mean_depth": 15335.843823556448,
+        "std_depth": 11894.904893391717
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_8918.png",
+        "mean_depth": 20343.023715074607,
+        "std_depth": 14162.941295267985
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_8948.png",
+        "mean_depth": 25080.094154891653,
+        "std_depth": 11853.718161892368
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_8968.png",
+        "mean_depth": 19058.744449233487,
+        "std_depth": 18089.420938822084
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_9065.png",
+        "mean_depth": 22182.945005086927,
+        "std_depth": 15293.186088371405
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_9320.png",
+        "mean_depth": 22407.984225300603,
+        "std_depth": 18318.90209833233
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_9326.png",
+        "mean_depth": 26598.049644606268,
+        "std_depth": 22027.905956790837
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_9401.png",
+        "mean_depth": 10223.30698110461,
+        "std_depth": 14497.432568857132
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/IMG_9671.png",
+        "mean_depth": 21594.943690700733,
+        "std_depth": 18706.268870353528
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/MG_9035.png",
+        "mean_depth": 11822.413629965538,
+        "std_depth": 12225.842341365977
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/MG_9163.png",
+        "mean_depth": 17945.206947674364,
+        "std_depth": 16380.155718999109
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/MG_9166.png",
+        "mean_depth": 21714.023087962272,
+        "std_depth": 16268.110109924442
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/MG_9180.png",
+        "mean_depth": 15426.399443533222,
+        "std_depth": 15079.789125141499
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/MG_9215.png",
+        "mean_depth": 19712.21668574916,
+        "std_depth": 21976.92812758891
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/own/OUT_8905.png",
+        "mean_depth": 16688.236306965402,
+        "std_depth": 10612.311436472779
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/altai-3620114.png",
+        "mean_depth": 28337.25745072538,
+        "std_depth": 19687.12704969819
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/apple-4837158.png",
+        "mean_depth": 34691.73386176215,
+        "std_depth": 20770.421840520397
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/apple-4888541.png",
+        "mean_depth": 31905.057703993054,
+        "std_depth": 24542.712903581094
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/architecture-3984719.png",
+        "mean_depth": 27512.424388188745,
+        "std_depth": 15567.633516960817
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/asia-1793414.png",
+        "mean_depth": 27872.31468438599,
+        "std_depth": 19032.016884532135
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/asia-1793425.png",
+        "mean_depth": 18464.441768973214,
+        "std_depth": 16881.84720811907
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/autumn-2789224.png",
+        "mean_depth": 15328.851824443142,
+        "std_depth": 16351.92575453214
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/autumn-3755067.png",
+        "mean_depth": 30084.12150927198,
+        "std_depth": 10688.026332431342
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/autumn-leaves-2789234.png",
+        "mean_depth": 31292.614285975968,
+        "std_depth": 21771.959380841847
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/background-3144232.png",
+        "mean_depth": 29716.246237466577,
+        "std_depth": 12126.032808826976
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/beaded-2137080.png",
+        "mean_depth": 43815.65440540739,
+        "std_depth": 18354.296015069485
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/bee-104628.png",
+        "mean_depth": 27591.574991319445,
+        "std_depth": 21495.70242945638
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/bee-5349886.png",
+        "mean_depth": 18397.786262639216,
+        "std_depth": 19786.94915892399
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/bird-1975522.png",
+        "mean_depth": 34402.35822428385,
+        "std_depth": 18527.633141018916
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/black-and-white-4961809.png",
+        "mean_depth": 17676.872002757354,
+        "std_depth": 20876.564478019955
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/body-1130559.png",
+        "mean_depth": 30455.718309975116,
+        "std_depth": 23602.27756400146
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/bottle-4974440.png",
+        "mean_depth": 23212.327694533997,
+        "std_depth": 25405.28947306243
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/buddhist-1793421.png",
+        "mean_depth": 19443.60030848869,
+        "std_depth": 18303.69686207869
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/cake-4302405.png",
+        "mean_depth": 39914.5255907459,
+        "std_depth": 17745.967638664137
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/camera-792044.png",
+        "mean_depth": 16861.041778099356,
+        "std_depth": 15851.559580496949
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/castle-2744263.png",
+        "mean_depth": 18969.192495039682,
+        "std_depth": 19615.46758618582
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/cat-316990.png",
+        "mean_depth": 29267.413603035347,
+        "std_depth": 23898.738362011994
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/child-4696138.png",
+        "mean_depth": 19195.606951567996,
+        "std_depth": 18221.52024336163
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/child-659283.png",
+        "mean_depth": 39307.395824479776,
+        "std_depth": 24139.60586066866
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/cliffs-4422977.png",
+        "mean_depth": 13929.300104275288,
+        "std_depth": 11770.739729062432
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/cloud-4593851.png",
+        "mean_depth": 19289.33936840563,
+        "std_depth": 17604.179535112216
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/coast-540123.png",
+        "mean_depth": 19177.27909034291,
+        "std_depth": 21182.140846088572
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/coffee-1399801.png",
+        "mean_depth": 27608.064276817116,
+        "std_depth": 13503.994718028933
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/colombia-4933448.png",
+        "mean_depth": 11848.935833093317,
+        "std_depth": 12453.277418170766
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/color-4489444.png",
+        "mean_depth": 26254.450626838236,
+        "std_depth": 18277.316716382364
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/cookies-2576563.png",
+        "mean_depth": 31508.928502344665,
+        "std_depth": 20973.37962430643
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/creek-21749.png",
+        "mean_depth": 24319.4626108221,
+        "std_depth": 14557.131986047774
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/cross-2713356.png",
+        "mean_depth": 14689.707252604167,
+        "std_depth": 13250.430117751193
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/dance-1958128.png",
+        "mean_depth": 17290.254825032553,
+        "std_depth": 11686.51615497882
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/deer-5367751.png",
+        "mean_depth": 21721.575611572265,
+        "std_depth": 18924.40168407306
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/dog-training-5098572.png",
+        "mean_depth": 30316.820873021687,
+        "std_depth": 20709.775464867907
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/drone-5106882.png",
+        "mean_depth": 20151.687732163915,
+        "std_depth": 12290.533694185702
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/drop-of-water-545377.png",
+        "mean_depth": 20121.514329292848,
+        "std_depth": 16901.7497756441
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/drops-539161.png",
+        "mean_depth": 21979.73429266686,
+        "std_depth": 19765.306372239862
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/duck-4934652.png",
+        "mean_depth": 26123.71602432591,
+        "std_depth": 20616.694023042503
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/el-capitan-4933472.png",
+        "mean_depth": 21553.639599609374,
+        "std_depth": 12562.584776088233
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/elephant-55255.png",
+        "mean_depth": 33695.38244852941,
+        "std_depth": 21185.572595064932
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/eye-1132531.png",
+        "mean_depth": 39748.315038552544,
+        "std_depth": 11822.459291806006
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/factory-3337200.png",
+        "mean_depth": 22676.144042606615,
+        "std_depth": 17748.098587906516
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/fair-540126.png",
+        "mean_depth": 24293.32562371776,
+        "std_depth": 14177.259476587815
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/faith-2208916.png",
+        "mean_depth": 7930.598568385796,
+        "std_depth": 10023.27101826457
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/fantasy-2750995.png",
+        "mean_depth": 18423.05979691816,
+        "std_depth": 16481.833841705586
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/farbenspiel-5107865.png",
+        "mean_depth": 32463.482944235704,
+        "std_depth": 19109.15077648579
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/fern-1250903.png",
+        "mean_depth": 13572.40756521102,
+        "std_depth": 12390.808413112287
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/fiber-optic-2749588.png",
+        "mean_depth": 41338.29403392439,
+        "std_depth": 16709.484942197338
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/fiore-4083073.png",
+        "mean_depth": 28666.027888997396,
+        "std_depth": 23066.307657833437
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/flower-2394096.png",
+        "mean_depth": 23189.397810058595,
+        "std_depth": 17168.23294122718
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/flower-2420942.png",
+        "mean_depth": 25380.66155572245,
+        "std_depth": 17855.889178061643
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/flower-315444.png",
+        "mean_depth": 36302.39864134445,
+        "std_depth": 14717.092643508997
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/flower-3302834.png",
+        "mean_depth": 21379.653285152184,
+        "std_depth": 13198.99852370168
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/flower-5109122.png",
+        "mean_depth": 17541.620569802988,
+        "std_depth": 18127.99412938952
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/flower-5349909.png",
+        "mean_depth": 21120.71328491354,
+        "std_depth": 16608.729815433962
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/flower-5468520.png",
+        "mean_depth": 24447.287900241794,
+        "std_depth": 21706.431167887375
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/flowers-2396324.png",
+        "mean_depth": 16067.357189941406,
+        "std_depth": 16004.738351442695
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/forest-4707812.png",
+        "mean_depth": 20653.145729227726,
+        "std_depth": 17279.556631666037
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/fragrapanti-4366075.png",
+        "mean_depth": 26893.202208199004,
+        "std_depth": 16335.057515121265
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/frog-3386397.png",
+        "mean_depth": 29766.187902989448,
+        "std_depth": 15604.747981621207
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/frost-1209402.png",
+        "mean_depth": 32275.06533392857,
+        "std_depth": 15982.63512316686
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/fruit-1027987.png",
+        "mean_depth": 33645.91435375147,
+        "std_depth": 18945.207900561665
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/fruits-82524.png",
+        "mean_depth": 29074.211523666472,
+        "std_depth": 14235.659330969727
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/ghost-2935132.png",
+        "mean_depth": 16138.875983364427,
+        "std_depth": 17603.38801883492
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/girl-5049480.png",
+        "mean_depth": 42558.17116666667,
+        "std_depth": 14184.892134350252
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/glass-1283283.png",
+        "mean_depth": 34755.870097267,
+        "std_depth": 17040.35581852927
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/globe-3984876.png",
+        "mean_depth": 20971.628272457503,
+        "std_depth": 18625.533733627388
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/goose-3190750.png",
+        "mean_depth": 29726.292759892338,
+        "std_depth": 21863.079921027187
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/green-tea-2356770.png",
+        "mean_depth": 12614.45060194672,
+        "std_depth": 13011.81794543881
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/guardian-angel-2821427.png",
+        "mean_depth": 31310.8861957796,
+        "std_depth": 19467.402749321096
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/gulls-84208.png",
+        "mean_depth": 9443.375036635405,
+        "std_depth": 6678.102040775767
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/gum-73649.png",
+        "mean_depth": 40641.236356608075,
+        "std_depth": 19104.366931921682
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/hahn-3820939.png",
+        "mean_depth": 33960.0599143026,
+        "std_depth": 23859.08306625237
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/heron-stalking-5367169.png",
+        "mean_depth": 22538.67227066237,
+        "std_depth": 21746.580635414746
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/hirsch-3967567.png",
+        "mean_depth": 18196.743490389577,
+        "std_depth": 15349.160785663566
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/homberg-1959229.png",
+        "mean_depth": 18748.83860547333,
+        "std_depth": 16730.580921106965
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/horses-1414889.png",
+        "mean_depth": 35435.34858552631,
+        "std_depth": 20894.919040499688
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/house-mouse-5090096.png",
+        "mean_depth": 30063.561336725088,
+        "std_depth": 19895.62317340189
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/iceland-268152.png",
+        "mean_depth": 23581.63477297794,
+        "std_depth": 18334.89861411993
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/jeans-316778.png",
+        "mean_depth": 34982.53105684735,
+        "std_depth": 12712.987107906336
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/kermit-1709830.png",
+        "mean_depth": 26786.868027193344,
+        "std_depth": 14445.84514218174
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/kingfisher-1068684.png",
+        "mean_depth": 25316.96207092285,
+        "std_depth": 20667.307946839253
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/landscape-4694558.png",
+        "mean_depth": 34427.90711367966,
+        "std_depth": 15843.548825800139
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/landscape-540115.png",
+        "mean_depth": 10552.864252088219,
+        "std_depth": 14192.150254996915
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/lasagna-3344997.png",
+        "mean_depth": 32335.451655004395,
+        "std_depth": 13752.700897413028
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/lime-319950.png",
+        "mean_depth": 22510.31603392857,
+        "std_depth": 18381.796617137566
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/lion-3372731.png",
+        "mean_depth": 39295.27547541182,
+        "std_depth": 26848.60793847686
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/lion-4581841.png",
+        "mean_depth": 26680.85730509965,
+        "std_depth": 23643.31393478033
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/liver-sausage-556489.png",
+        "mean_depth": 28275.535150253563,
+        "std_depth": 20991.2242490647
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/liverwort-3159876.png",
+        "mean_depth": 13890.881028355803,
+        "std_depth": 15346.321109844373
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/loco-1897607.png",
+        "mean_depth": 27555.06239371687,
+        "std_depth": 20516.754704777497
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/lost-places-1549096.png",
+        "mean_depth": 18139.89775424971,
+        "std_depth": 13640.743841754096
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/magnolia-trees-556718.png",
+        "mean_depth": 21009.519955304808,
+        "std_depth": 20698.927009846633
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/mammal-2892911.png",
+        "mean_depth": 28865.18318896199,
+        "std_depth": 14956.29444630654
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/man-and-nature-320129.png",
+        "mean_depth": 18547.17695587588,
+        "std_depth": 13337.492807683662
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/maple-2135514.png",
+        "mean_depth": 23483.340219262896,
+        "std_depth": 19281.90823304761
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/marigold-54936.png",
+        "mean_depth": 23872.28066533905,
+        "std_depth": 18223.10500185944
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/meadow-3743023.png",
+        "mean_depth": 25999.98704861111,
+        "std_depth": 18725.3173322856
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/meerkat-2482875.png",
+        "mean_depth": 21641.67884474148,
+        "std_depth": 21228.19719022036
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/message-in-a-bottle-1694868.png",
+        "mean_depth": 35035.00542826296,
+        "std_depth": 20459.319956342326
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/model-1115438.png",
+        "mean_depth": 34374.990311767295,
+        "std_depth": 17494.38275257098
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/morning-4573991.png",
+        "mean_depth": 31215.272270662368,
+        "std_depth": 16525.10834605297
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/mountain-4195328.png",
+        "mean_depth": 19520.929178267877,
+        "std_depth": 15187.475821497817
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/mountains-3788308.png",
+        "mean_depth": 19874.429598659146,
+        "std_depth": 17880.295527346545
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/mushroom-468674.png",
+        "mean_depth": 34036.04909261068,
+        "std_depth": 18592.958140347182
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/nature-1283523.png",
+        "mean_depth": 16421.856824112736,
+        "std_depth": 16468.299547528743
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/nature-1975455.png",
+        "mean_depth": 39700.02952905188,
+        "std_depth": 13602.941075536972
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/nature-2573561.png",
+        "mean_depth": 23377.95731975381,
+        "std_depth": 14797.874038453936
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/nature-3046567.png",
+        "mean_depth": 36670.49256576055,
+        "std_depth": 17201.87980242051
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/nature-3047873.png",
+        "mean_depth": 28197.774682100055,
+        "std_depth": 18592.265814810053
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/nature-3302869.png",
+        "mean_depth": 23784.250637871482,
+        "std_depth": 21795.485624924553
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/nature-693417.png",
+        "mean_depth": 29765.795649414064,
+        "std_depth": 23419.035441984306
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/nature-963293.png",
+        "mean_depth": 21419.082483697246,
+        "std_depth": 17971.07542241297
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/navy-ship-4510940.png",
+        "mean_depth": 21933.160406163075,
+        "std_depth": 17878.913194438763
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/old-1130731.png",
+        "mean_depth": 34236.06526774089,
+        "std_depth": 17089.067754811993
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/old-1130733.png",
+        "mean_depth": 29354.21911295573,
+        "std_depth": 14965.360864321941
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/old-1130743.png",
+        "mean_depth": 35389.2580476888,
+        "std_depth": 18592.48359600029
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/paris-3896248.png",
+        "mean_depth": 20718.556017365183,
+        "std_depth": 18811.645160200238
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/people-2576291.png",
+        "mean_depth": 37850.55578618999,
+        "std_depth": 23310.227467197914
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/people-2942958.png",
+        "mean_depth": 40696.2868295721,
+        "std_depth": 23299.29683545439
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/perfume-1860489.png",
+        "mean_depth": 19442.68730355064,
+        "std_depth": 14095.337427781422
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/plums-276075.png",
+        "mean_depth": 28078.79584462925,
+        "std_depth": 22162.479884903176
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/potion-1249050.png",
+        "mean_depth": 32387.50181528429,
+        "std_depth": 19751.39306506787
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/pregnant-woman-1910302.png",
+        "mean_depth": 28234.468057590857,
+        "std_depth": 22439.86664777315
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/primrose-5007661.png",
+        "mean_depth": 18681.546271640258,
+        "std_depth": 17904.05449265824
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/race-5351045.png",
+        "mean_depth": 41183.511473795574,
+        "std_depth": 12181.348619975353
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/railroad-tracks-163518.png",
+        "mean_depth": 11738.461704579806,
+        "std_depth": 17295.55405043572
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/rain-315446.png",
+        "mean_depth": 35646.20198125738,
+        "std_depth": 13853.256856626269
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/red-panda-4366264.png",
+        "mean_depth": 29436.629774509085,
+        "std_depth": 20411.059613373374
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/rock-3619386.png",
+        "mean_depth": 32396.92077718099,
+        "std_depth": 19160.22274009714
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/rome-5163868.png",
+        "mean_depth": 21529.943031946073,
+        "std_depth": 19713.45109713771
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/rose-3802424.png",
+        "mean_depth": 24235.945273024383,
+        "std_depth": 22463.91762896194
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/rose-5326384.png",
+        "mean_depth": 25707.705357012015,
+        "std_depth": 21832.10385465719
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/ruins-5497556.png",
+        "mean_depth": 32188.42267724153,
+        "std_depth": 18691.01672823008
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/sandwich-3827875.png",
+        "mean_depth": 39040.83911593455,
+        "std_depth": 20831.860185857582
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/scotland-540119.png",
+        "mean_depth": 14283.865742233294,
+        "std_depth": 17533.15160335233
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/sea-3770942.png",
+        "mean_depth": 15544.00982286782,
+        "std_depth": 20399.5372139987
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/shellfish-3062011.png",
+        "mean_depth": 31480.91017090416,
+        "std_depth": 18619.52569866246
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/ski-103600.png",
+        "mean_depth": 25447.297123209635,
+        "std_depth": 16146.680845742796
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/slice-of-lemon-2135548.png",
+        "mean_depth": 29840.92926436108,
+        "std_depth": 15237.792678727126
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/soap-bubble-1958650.png",
+        "mean_depth": 30716.70820175117,
+        "std_depth": 22948.171469985504
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/soap-bubble-1959327.png",
+        "mean_depth": 18250.907426912367,
+        "std_depth": 19624.29570741731
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/son-1910304.png",
+        "mean_depth": 36498.539559825615,
+        "std_depth": 23638.669338564196
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/spices-2548653.png",
+        "mean_depth": 23060.405615636017,
+        "std_depth": 15707.587568926236
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/sport-4448366.png",
+        "mean_depth": 22023.18406965229,
+        "std_depth": 22595.87334671039
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/spring-1256810.png",
+        "mean_depth": 21434.44820486518,
+        "std_depth": 14704.534502111397
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/spring-4079984.png",
+        "mean_depth": 24066.424543889214,
+        "std_depth": 15909.449537600702
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/still-life-art-and-literature-4778543.png",
+        "mean_depth": 20634.996669841734,
+        "std_depth": 16945.347024185554
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/stilt-3585561.png",
+        "mean_depth": 13013.385955817703,
+        "std_depth": 10914.31291437304
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/stockholm-2496370.png",
+        "mean_depth": 22743.215405092593,
+        "std_depth": 18008.351201600268
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/sunflower-3598564.png",
+        "mean_depth": 30759.49939276817,
+        "std_depth": 15905.534704490974
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/sunrise-320079.png",
+        "mean_depth": 21584.87041221458,
+        "std_depth": 20613.01754746685
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/sunset-2496237.png",
+        "mean_depth": 24180.05631960727,
+        "std_depth": 22474.116167454788
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/sunset-815270.png",
+        "mean_depth": 14323.742638683432,
+        "std_depth": 16604.10219058241
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/sushi-2853382.png",
+        "mean_depth": 37396.4268046875,
+        "std_depth": 19891.759756560325
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/swan-5366249.png",
+        "mean_depth": 32681.51581298828,
+        "std_depth": 21107.698910272993
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/swan-fight-4066486.png",
+        "mean_depth": 30334.011318976874,
+        "std_depth": 19387.24885784411
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/sydney-3629684.png",
+        "mean_depth": 16543.730812206915,
+        "std_depth": 17117.652219940126
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/tea-2356775.png",
+        "mean_depth": 18579.744456235363,
+        "std_depth": 13971.259337525345
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/temple-4580961.png",
+        "mean_depth": 37273.49069185961,
+        "std_depth": 23362.986116783966
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/textures-3668419.png",
+        "mean_depth": 32574.007028637123,
+        "std_depth": 16790.058447239415
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/the-cascading-water-3700969.png",
+        "mean_depth": 22671.83507565211,
+        "std_depth": 22655.820571900076
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/thistle-5140407.png",
+        "mean_depth": 23614.36192000878,
+        "std_depth": 22412.440715713103
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/top-view-1248955.png",
+        "mean_depth": 23405.861256228018,
+        "std_depth": 19252.67489878475
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/tree-1959267.png",
+        "mean_depth": 20388.710344922332,
+        "std_depth": 15484.018766349916
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/tree-3224754.png",
+        "mean_depth": 15883.286948784722,
+        "std_depth": 15079.585785141762
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/tree-4490071.png",
+        "mean_depth": 19115.017686456224,
+        "std_depth": 20718.505198133636
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/trees-4688002.png",
+        "mean_depth": 25158.481055832355,
+        "std_depth": 14087.680121578078
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/trzmielowka-4759197.png",
+        "mean_depth": 29009.82037372076,
+        "std_depth": 24170.575779634975
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/tulip-561050.png",
+        "mean_depth": 24619.40636423939,
+        "std_depth": 13410.26318347722
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/tulips-320151.png",
+        "mean_depth": 27074.595700162514,
+        "std_depth": 20622.85558598843
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/village-3628524.png",
+        "mean_depth": 42191.41949978298,
+        "std_depth": 19397.240960359235
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/violet-5108852.png",
+        "mean_depth": 26874.380242260857,
+        "std_depth": 16839.485492984237
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/volcano-560388.png",
+        "mean_depth": 12067.364134939848,
+        "std_depth": 18075.044632602232
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/walnut-658527.png",
+        "mean_depth": 26065.948150735294,
+        "std_depth": 20273.734952600094
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/warm-and-cozy-1975215.png",
+        "mean_depth": 24576.188894893025,
+        "std_depth": 21112.43639104368
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/water-2208931.png",
+        "mean_depth": 27122.742984320048,
+        "std_depth": 20049.360153573587
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/waterfall-163579.png",
+        "mean_depth": 18942.546705561253,
+        "std_depth": 17170.61950746567
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/water-lily-3823928.png",
+        "mean_depth": 28557.3231866729,
+        "std_depth": 22239.144696996023
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/waterscape-4208104.png",
+        "mean_depth": 23598.386760016507,
+        "std_depth": 18987.76426060432
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/white-4414074.png",
+        "mean_depth": 40131.71173711075,
+        "std_depth": 24415.33290843479
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/wild-5090.png",
+        "mean_depth": 27765.28662027995,
+        "std_depth": 24357.17627558394
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/wine-1796891.png",
+        "mean_depth": 16463.613676581324,
+        "std_depth": 12431.445225143552
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/winter-1142029.png",
+        "mean_depth": 25957.507736013988,
+        "std_depth": 21364.962913700318
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/woman-3585065.png",
+        "mean_depth": 26944.590944852942,
+        "std_depth": 20054.103320855353
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/woman-3895501.png",
+        "mean_depth": 31090.973067482417,
+        "std_depth": 16984.042537929818
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/woman-5341680.png",
+        "mean_depth": 28155.522095728313,
+        "std_depth": 18732.643077962442
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/women-1209678.png",
+        "mean_depth": 23825.70271834701,
+        "std_depth": 21133.50913298609
+    },
+    {
+        "image": "depth_segmentation_maps/DPT/depths/pixabay_first50k/women-816255.png",
+        "mean_depth": 25930.621690907094,
+        "std_depth": 17696.255362439177
+    }
+]
