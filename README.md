@@ -13,7 +13,7 @@ This repository is part of the DFG project [Sophoappeal (437543412)](https://www
 * DPT implementation see: https://github.com/intel-isl/DPT
     * checkout DPT repo
     * install according to the given readme via conda
-    * run `pip3 install python-dateutil` (dependency is missing)
+    * run `pip3 install python-dateutil` (dependency is missing) inside the newly created conda environment
     * place `dpt_do_all.py` in the folder, adapt paths inside this script
         * you may change "gpu" to "cpu" in the run_*.py scripts of DPT
     * `dpt_do_all.py` should generate in <DPT_Folder>/maps the same content as stored in the DPT subfolder in this repo
