@@ -11,7 +11,7 @@ This repository is part of the DFG project [Sophoappeal (437543412)](https://www
 * requires ../images to be the [sohpappeal_images](https://github.com/Telecommunication-Telemedia-Assessment/sophoappeal_images) repository, it is recommended to use the main repository [Sohpappeal](https://github.com/Telecommunication-Telemedia-Assessment/sophoappeal).
 
 * DPT implementation see: https://github.com/intel-isl/DPT
-    * checkout this repo
+    * checkout DPT repo
     * install according to the given readme via conda
     * run `pip3 install python-dateutil` (dependency is missing)
     * place `dpt_do_all.py` in the folder, adapt paths inside this script
